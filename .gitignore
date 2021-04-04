@@ -1,4 +1,5 @@
 */test.R
+03-historical/*.csv
 # History files
 .Rhistory
 .Rapp.history
