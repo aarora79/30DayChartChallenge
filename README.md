@@ -28,3 +28,7 @@ A couple of charts about the TV Series "Just Add Magic". The wordcloud shows it 
 
 <img src="04-magical/network_graph.png" title="Season 1 and 3 have little in common except for Saffron Falls the place where the show takes place, Season 2 and 3 have the common theme of the girls cooking spells." alt="Season 1 and 3 have little in common except for Saffron Falls the place where the show takes place, Season 2 and 3 have the common theme of the girls cooking spells." width="3500" />
 
+## Day 5: Slope
+
+A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period. More such charts and data in my book \"Blueberries In My Salad: My Journey Towards Fitness & Strength\" (Amazon: https://www.amazon.com/Blueberries-My-Salad-Journey-Strength-ebook/dp/B08KPMGT4W, LeanPub: https://leanpub.com/blueberries-in-my-salad/c/4Pe65eVXFLx3). Please show some love to a first time author :-).
+<img src="05-slope/body_composition_changes.png" title="A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period. More such charts and data in my book \"Blueberries In My Salad: My Journey Towards Fitness & Strength\"." alt="A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period. More such charts and data in my book \"Blueberries In My Salad: My Journey Towards Fitness & Strength\"." width="3500" />
