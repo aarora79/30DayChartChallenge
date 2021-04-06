@@ -80,18 +80,18 @@ every_3_months_measurements_tidy %>%
                   aes(label = measure) , 
                   hjust = "left", 
                   fontface = "bold", 
-                  size = 3, 
+                  size = 4, 
                   nudge_x = -.70, 
                   direction = "y") +
   geom_text_repel(data = every_3_months_measurements_tidy %>% filter(duration == latest_label), 
                   aes(label = measure) , 
                   hjust = "right", 
                   fontface = "bold", 
-                  size = 3, 
+                  size = 4, 
                   nudge_x = .75, 
                   direction = "y") +
   geom_label(aes(label = value), 
-             size = 2.5, 
+             size = 3.5, 
              label.padding = unit(0.05, "lines"), 
              label.size = 0.0) +
   slope_theme +
