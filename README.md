@@ -32,3 +32,8 @@ A couple of charts about the TV Series "Just Add Magic". The wordcloud shows it 
 
 A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period. More such charts and data in my book \"Blueberries In My Salad: My Journey Towards Fitness & Strength\" (Amazon: https://www.amazon.com/Blueberries-My-Salad-Journey-Strength-ebook/dp/B08KPMGT4W, LeanPub: https://leanpub.com/blueberries-in-my-salad/c/4Pe65eVXFLx3). Please show some love to a first time author :-).
 <img src="05-slope/body_composition_changes.png" title="A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period." alt="A slope chart showing body composition changes (weight, lean mass, BMI) with diet and exercise of a 14 month period." width="3500" />
+
+## Day 6: Experimental
+
+Experimented with a bullet chart for the first time (thank you: https://themockup.blog/posts/2020-11-29-bullet-chart-variants-in-r/). The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift).
+<img src="05-slope/body_composition_changes.png" title="Experimented with a bullet chart for the first time. The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift)." alt="Experimented with a bullet chart for the first time. The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift)." width="3500" />
