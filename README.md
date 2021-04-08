@@ -37,3 +37,8 @@ A slope chart showing body composition changes (weight, lean mass, BMI) with die
 
 Experimented with a bullet chart for the first time (thank you: https://themockup.blog/posts/2020-11-29-bullet-chart-variants-in-r/). The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift).
 <img src="06-experimental/deadlift_bullet_chart.png" title="Experimented with a bullet chart for the first time. The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift)." alt="Experimented with a bullet chart for the first time. The chart shows my progress towards my deadlift target (what it does not show: took 15 months to get to a 315lb deadlift)." width="3500" />
+
+## Day 7: Physical
+
+What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months. Made using the wonderful <a href=https://cran.r-project.org/web/packages/ggridges/vignettes/gallery.html>ggridges</a> package.
+<img src="07-physical/deadlift_ridge.png" title="What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months." alt="What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months." width="3500" />
