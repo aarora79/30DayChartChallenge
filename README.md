@@ -42,3 +42,8 @@ Experimented with a bullet chart for the first time (thank you: https://themocku
 
 What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months. Made using the wonderful <a href=https://cran.r-project.org/web/packages/ggridges/vignettes/gallery.html>ggridges</a> package.
 <img src="07-physical/deadlift_ridge.png" title="What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months." alt="What is more physical than lifting 300lb off the ground or carrying 250lb for 30 steps? Here is a chart showing the distribution of the pounds I deadlifted over the past 14 months." width="3500" />
+
+## Day 8: Animals
+
+Do the last 5 letters of a dinosaur species name give a clue about their diet? This simple bar chart faceted by the suffix helps answer this question. Seems like the most common suffix "sauras" has the most diverse diet as a species, followed by raptor's and pteryx'es.
+<img src="08-animals/dinosaur.png" title="Do the last 5 letters of a dinosaur species name give a clue about their diet? This simple bar chart faceted by the suffix helps answer this question. Seems like the most common suffix "sauras" has the most diverse diet as a species, followed by raptor's and pteryx'es." alt="Do the last 5 letters of a dinosaur species name give a clue about their diet? This simple bar chart faceted by the suffix helps answer this question. Seems like the most common suffix "sauras" has the most diverse diet as a species, followed by raptor's and pteryx'es." width="3500" />
