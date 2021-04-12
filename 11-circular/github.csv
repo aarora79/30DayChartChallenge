@@ -1,0 +1,4382 @@
+license,name,count
+unlicense,JavaScript,9528
+unlicense,CSS,6765
+unlicense,Shell,6445
+unlicense,HTML,6378
+unlicense,Python,6239
+unlicense,Java,3965
+unlicense,C,3043
+unlicense,C++,3041
+unlicense,Makefile,2459
+unlicense,PHP,2299
+unlicense,Ruby,2225
+unlicense,C#,2191
+unlicense,Batchfile,1012
+unlicense,Objective-C,1002
+unlicense,Go,862
+unlicense,Perl,637
+unlicense,Lua,597
+unlicense,CoffeeScript,591
+unlicense,TeX,446
+unlicense,Vim script,439
+unlicense,CMake,429
+unlicense,Haskell,423
+unlicense,Arduino,416
+unlicense,VimL,371
+unlicense,F#,365
+unlicense,TypeScript,356
+unlicense,Scala,339
+unlicense,Assembly,338
+unlicense,PowerShell,330
+unlicense,ASP,319
+unlicense,ApacheConf,317
+unlicense,Swift,304
+unlicense,Emacs Lisp,292
+unlicense,Rust,281
+unlicense,R,279
+unlicense,Groovy,265
+unlicense,Clojure,250
+unlicense,ActionScript,216
+unlicense,Jupyter Notebook,179
+unlicense,GLSL,171
+unlicense,Prolog,168
+unlicense,Visual Basic,166
+unlicense,Common Lisp,155
+unlicense,Dockerfile,148
+unlicense,Matlab,135
+unlicense,Pascal,134
+unlicense,QMake,134
+unlicense,D,117
+unlicense,Scheme,116
+unlicense,XSLT,111
+unlicense,Erlang,107
+unlicense,Processing,104
+unlicense,Roff,92
+unlicense,Elixir,89
+unlicense,AutoHotkey,86
+unlicense,Groff,82
+unlicense,Awk,73
+unlicense,Puppet,72
+unlicense,Racket,70
+unlicense,OCaml,69
+unlicense,Objective-C++,60
+unlicense,M4,59
+unlicense,Haxe,56
+unlicense,Nginx,54
+unlicense,QML,53
+unlicense,PLpgSQL,53
+unlicense,Elm,52
+unlicense,Tcl,52
+unlicense,Vue,52
+unlicense,Smarty,51
+unlicense,Kotlin,51
+unlicense,AppleScript,48
+unlicense,Verilog,45
+unlicense,IDL,44
+unlicense,Protocol Buffer,43
+unlicense,Standard ML,43
+unlicense,TSQL,42
+unlicense,Dart,41
+unlicense,PLSQL,40
+unlicense,Nix,40
+unlicense,Mathematica,37
+unlicense,Cucumber,36
+unlicense,Gnuplot,36
+unlicense,VHDL,36
+unlicense,Logos,36
+unlicense,M,35
+unlicense,OpenSCAD,34
+unlicense,ShaderLab,33
+unlicense,Smalltalk,31
+unlicense,Julia,30
+unlicense,FORTRAN,30
+unlicense,SaltStack,30
+unlicense,Eagle,29
+unlicense,Lex,27
+unlicense,Perl6,27
+unlicense,GDB,27
+unlicense,SourcePawn,26
+unlicense,Forth,26
+unlicense,Hack,26
+unlicense,Yacc,25
+unlicense,LiveScript,24
+unlicense,Cuda,24
+unlicense,AngelScript,24
+unlicense,DIGITAL Command Language,23
+unlicense,KiCad,23
+unlicense,SQLPL,22
+unlicense,HLSL,22
+unlicense,Nimrod,22
+unlicense,Handlebars,21
+unlicense,Brainfuck,20
+unlicense,HCL,20
+unlicense,PostScript,19
+unlicense,FreeMarker,17
+unlicense,Stata,17
+unlicense,SystemVerilog,17
+unlicense,OpenEdge ABL,17
+unlicense,ColdFusion,17
+unlicense,Coq,16
+unlicense,Fortran,16
+unlicense,AutoIt,16
+unlicense,MATLAB,16
+unlicense,XML,16
+unlicense,NSIS,15
+unlicense,Max,15
+unlicense,Gherkin,15
+unlicense,Mako,15
+unlicense,GAP,15
+unlicense,Ada,14
+unlicense,SAS,14
+unlicense,Modelica,13
+unlicense,AGS Script,13
+unlicense,PureBasic,13
+unlicense,Perl 6,13
+unlicense,Idris,12
+unlicense,Squirrel,12
+unlicense,ANTLR,12
+unlicense,Agda,11
+unlicense,Scilab,11
+unlicense,LLVM,10
+unlicense,Rich Text Format,10
+unlicense,Inno Setup,10
+unlicense,PureScript,10
+unlicense,Vala,10
+unlicense,COBOL,10
+unlicense,Vim Snippet,9
+unlicense,Nim,9
+unlicense,Xtend,9
+unlicense,Raku,9
+unlicense,NewLisp,9
+unlicense,Lasso,9
+unlicense,PAWN,9
+unlicense,GCC Machine Description,9
+unlicense,Io,8
+unlicense,Game Maker Language,8
+unlicense,LilyPond,8
+unlicense,Pure Data,8
+unlicense,SQL,7
+unlicense,RAML,7
+unlicense,MoonScript,7
+unlicense,DOT,7
+unlicense,YASnippet,7
+unlicense,Crystal,7
+unlicense,SuperCollider,7
+unlicense,Gosu,7
+unlicense,XQuery,6
+unlicense,LOLCODE,6
+unlicense,JSONiq,6
+unlicense,Apex,6
+unlicense,J,6
+unlicense,Thrift,6
+unlicense,Module Management System,6
+unlicense,Meson,6
+unlicense,Bison,5
+unlicense,CLIPS,5
+unlicense,EmberScript,5
+unlicense,xBase,5
+unlicense,1C Enterprise,5
+unlicense,LSL,5
+unlicense,GDScript,5
+unlicense,Boo,5
+unlicense,Bro,5
+unlicense,API Blueprint,5
+unlicense,sed,4
+unlicense,AspectJ,4
+unlicense,CartoCSS,4
+unlicense,RobotFramework,4
+unlicense,E,4
+unlicense,RPC,4
+unlicense,Limbo,4
+unlicense,Pony,4
+unlicense,DTrace,4
+unlicense,Liquid,4
+unlicense,Arc,4
+unlicense,Mercury,4
+unlicense,ooc,4
+unlicense,XProc,4
+unlicense,Eiffel,4
+unlicense,VBA,4
+unlicense,BlitzBasic,4
+unlicense,Ragel in Ruby Host,4
+unlicense,AMPL,4
+unlicense,Rebol,4
+unlicense,NetLogo,3
+unlicense,Mask,3
+unlicense,ABAP,3
+unlicense,SQF,3
+unlicense,DM,3
+unlicense,Web Ontology Language,3
+unlicense,Delphi,3
+unlicense,XS,3
+unlicense,BitBake,3
+unlicense,Factor,3
+unlicense,XC,3
+unlicense,Hy,3
+unlicense,Genshi,3
+unlicense,Pawn,2
+unlicense,Lean,2
+unlicense,Turing,2
+unlicense,Dylan,2
+unlicense,Nit,2
+unlicense,RenderScript,2
+unlicense,Self,2
+unlicense,eC,2
+unlicense,Oxygene,2
+unlicense,Modula-2,2
+unlicense,Frege,2
+unlicense,Pike,2
+unlicense,Volt,2
+unlicense,Terra,2
+unlicense,APL,2
+unlicense,Cool,2
+unlicense,Smali,2
+unlicense,Dhall,1
+unlicense,Shen,1
+unlicense,Ceylon,1
+unlicense,KiCad Layout,1
+unlicense,SRecode Template,1
+unlicense,REXX,1
+unlicense,WebAssembly,1
+unlicense,Cap'n Proto,1
+unlicense,ObjectScript,1
+unlicense,Ren'Py,1
+unlicense,Cirru,1
+unlicense,Mirah,1
+unlicense,FLUX,1
+unlicense,POV-Ray SDL,1
+unlicense,mupad,1
+unlicense,Befunge,1
+unlicense,GAMS,1
+unlicense,Propeller Spin,1
+unlicense,Ragel,1
+unlicense,Alloy,1
+unlicense,Red,1
+unlicense,PicoLisp,1
+unlicense,Reason,1
+unlicense,Slice,1
+unlicense,Metal,1
+unlicense,nesC,1
+unlicense,Gettext Catalog,1
+unlicense,Objective-J,1
+unlicense,BlitzMax,1
+unlicense,Markdown,1
+unlicense,Csound,1
+unlicense,Csound Score,1
+unlicense,EQ,1
+unlicense,HiveQL,1
+unlicense,q,1
+unlicense,Monkey,1
+unlicense,Clean,1
+unlicense,Dogescript,1
+unlicense,Fantom,1
+unlicense,Golo,1
+unlicense,Ioke,1
+unlicense,Jasmin,1
+unlicense,Nemerle,1
+unlicense,Nu,1
+unlicense,Omgrofl,1
+unlicense,Opa,1
+unlicense,Oz,1
+unlicense,PigLatin,1
+unlicense,Tea,1
+unlicense,F*,1
+unlicense,Slash,1
+unlicense,TI Program,1
+unlicense,LabVIEW,1
+unlicense,Visual Basic .NET,1
+unlicense,TLA,1
+unlicense,wisp,1
+unlicense,Rascal,1
+mpl-2.0,JavaScript,7282
+mpl-2.0,CSS,5269
+mpl-2.0,Shell,5266
+mpl-2.0,HTML,5160
+mpl-2.0,Python,3637
+mpl-2.0,Makefile,2871
+mpl-2.0,Go,1886
+mpl-2.0,Ruby,1830
+mpl-2.0,Java,1711
+mpl-2.0,C++,1583
+mpl-2.0,C,1558
+mpl-2.0,PHP,1050
+mpl-2.0,Batchfile,951
+mpl-2.0,HCL,652
+mpl-2.0,C#,596
+mpl-2.0,Objective-C,567
+mpl-2.0,CMake,549
+mpl-2.0,Rust,492
+mpl-2.0,Perl,491
+mpl-2.0,Dockerfile,293
+mpl-2.0,CoffeeScript,283
+mpl-2.0,Puppet,276
+mpl-2.0,ApacheConf,243
+mpl-2.0,Swift,229
+mpl-2.0,XSLT,222
+mpl-2.0,Assembly,220
+mpl-2.0,PowerShell,219
+mpl-2.0,Erlang,217
+mpl-2.0,Pascal,215
+mpl-2.0,Smarty,213
+mpl-2.0,TypeScript,195
+mpl-2.0,Lua,192
+mpl-2.0,Groovy,180
+mpl-2.0,Haskell,161
+mpl-2.0,R,160
+mpl-2.0,Clojure,153
+mpl-2.0,Scala,152
+mpl-2.0,Yacc,140
+mpl-2.0,Matlab,119
+mpl-2.0,PostScript,117
+mpl-2.0,M4,110
+mpl-2.0,QMake,110
+mpl-2.0,Visual Basic,101
+mpl-2.0,IDL,101
+mpl-2.0,TeX,100
+mpl-2.0,WebIDL,100
+mpl-2.0,PLpgSQL,95
+mpl-2.0,Groff,94
+mpl-2.0,Julia,94
+mpl-2.0,Mako,85
+mpl-2.0,Kotlin,85
+mpl-2.0,ASP,84
+mpl-2.0,QML,81
+mpl-2.0,Scheme,75
+mpl-2.0,Protocol Buffer,75
+mpl-2.0,Emacs Lisp,75
+mpl-2.0,D,74
+mpl-2.0,Elixir,72
+mpl-2.0,Racket,72
+mpl-2.0,Nginx,71
+mpl-2.0,GLSL,70
+mpl-2.0,GAP,66
+mpl-2.0,ActionScript,66
+mpl-2.0,F#,65
+mpl-2.0,Objective-C++,63
+mpl-2.0,OCaml,61
+mpl-2.0,NSIS,60
+mpl-2.0,Awk,56
+mpl-2.0,Forth,55
+mpl-2.0,SourcePawn,54
+mpl-2.0,Vue,54
+mpl-2.0,VimL,54
+mpl-2.0,Arduino,52
+mpl-2.0,Tcl,52
+mpl-2.0,TSQL,50
+mpl-2.0,Common Lisp,50
+mpl-2.0,FreeMarker,50
+mpl-2.0,Crystal,45
+mpl-2.0,Nimrod,45
+mpl-2.0,Prolog,43
+mpl-2.0,Factor,42
+mpl-2.0,Vim script,41
+mpl-2.0,PLSQL,41
+mpl-2.0,Jupyter Notebook,41
+mpl-2.0,Nix,40
+mpl-2.0,Roff,38
+mpl-2.0,SQLPL,35
+mpl-2.0,DTrace,29
+mpl-2.0,Lex,29
+mpl-2.0,Gherkin,28
+mpl-2.0,Bison,26
+mpl-2.0,Fortran,26
+mpl-2.0,Haxe,25
+mpl-2.0,Processing,24
+mpl-2.0,Inno Setup,24
+mpl-2.0,SaltStack,23
+mpl-2.0,Handlebars,23
+mpl-2.0,Elm,23
+mpl-2.0,Hack,23
+mpl-2.0,Perl6,21
+mpl-2.0,Scilab,20
+mpl-2.0,Smalltalk,19
+mpl-2.0,M,17
+mpl-2.0,PAWN,17
+mpl-2.0,Verilog,16
+mpl-2.0,Ada,16
+mpl-2.0,BitBake,15
+mpl-2.0,Logos,15
+mpl-2.0,Gnuplot,15
+mpl-2.0,1C Enterprise,15
+mpl-2.0,MATLAB,14
+mpl-2.0,Dart,14
+mpl-2.0,DIGITAL Command Language,14
+mpl-2.0,AppleScript,14
+mpl-2.0,ColdFusion,14
+mpl-2.0,RenderScript,13
+mpl-2.0,Meson,13
+mpl-2.0,XS,13
+mpl-2.0,Cucumber,13
+mpl-2.0,GDB,13
+mpl-2.0,FLUX,13
+mpl-2.0,VHDL,12
+mpl-2.0,AutoHotkey,12
+mpl-2.0,Module Management System,11
+mpl-2.0,AMPL,11
+mpl-2.0,Io,10
+mpl-2.0,SystemVerilog,10
+mpl-2.0,Cuda,10
+mpl-2.0,KiCad,10
+mpl-2.0,FORTRAN,9
+mpl-2.0,Modelica,9
+mpl-2.0,HLSL,9
+mpl-2.0,ShaderLab,9
+mpl-2.0,Max,9
+mpl-2.0,Rich Text Format,9
+mpl-2.0,Cap'n Proto,9
+mpl-2.0,Standard ML,9
+mpl-2.0,Mathematica,8
+mpl-2.0,Ragel,8
+mpl-2.0,CLIPS,7
+mpl-2.0,Perl 6,7
+mpl-2.0,XQuery,7
+mpl-2.0,Ragel in Ruby Host,7
+mpl-2.0,LLVM,7
+mpl-2.0,Rebol,6
+mpl-2.0,XML,6
+mpl-2.0,ANTLR,6
+mpl-2.0,OpenSCAD,6
+mpl-2.0,POV-Ray SDL,6
+mpl-2.0,Coq,5
+mpl-2.0,AspectJ,5
+mpl-2.0,SAS,5
+mpl-2.0,Starlark,5
+mpl-2.0,Bro,5
+mpl-2.0,VCL,5
+mpl-2.0,Idris,5
+mpl-2.0,Mask,5
+mpl-2.0,XProc,4
+mpl-2.0,ChucK,4
+mpl-2.0,NewLisp,4
+mpl-2.0,PicoLisp,4
+mpl-2.0,Liquid,4
+mpl-2.0,Pony,4
+mpl-2.0,Brainfuck,4
+mpl-2.0,LiveScript,4
+mpl-2.0,GCC Machine Description,4
+mpl-2.0,PureScript,4
+mpl-2.0,RAML,4
+mpl-2.0,VBScript,4
+mpl-2.0,Nemerle,4
+mpl-2.0,Vala,4
+mpl-2.0,OpenEdge ABL,3
+mpl-2.0,AGS Script,3
+mpl-2.0,LSL,3
+mpl-2.0,Web Ontology Language,3
+mpl-2.0,Eagle,3
+mpl-2.0,MAXScript,3
+mpl-2.0,Augeas,3
+mpl-2.0,SWIG,3
+mpl-2.0,Raku,3
+mpl-2.0,MoonScript,3
+mpl-2.0,Diff,3
+mpl-2.0,Objective-J,2
+mpl-2.0,WebAssembly,2
+mpl-2.0,Nim,2
+mpl-2.0,DOT,2
+mpl-2.0,Dhall,2
+mpl-2.0,Delphi,2
+mpl-2.0,RobotFramework,2
+mpl-2.0,AutoIt,2
+mpl-2.0,Lasso,2
+mpl-2.0,Stata,2
+mpl-2.0,Terra,2
+mpl-2.0,Papyrus,2
+mpl-2.0,xBase,2
+mpl-2.0,Thrift,2
+mpl-2.0,AngelScript,2
+mpl-2.0,Slash,2
+mpl-2.0,ABAP,2
+mpl-2.0,COBOL,2
+mpl-2.0,Cirru,2
+mpl-2.0,Eiffel,2
+mpl-2.0,JSONiq,2
+mpl-2.0,Lean,2
+mpl-2.0,SQL,2
+mpl-2.0,Red,2
+mpl-2.0,RPC,1
+mpl-2.0,RUNOFF,1
+mpl-2.0,Isabelle,1
+mpl-2.0,Xtend,1
+mpl-2.0,YARA,1
+mpl-2.0,Cycript,1
+mpl-2.0,SMT,1
+mpl-2.0,Pawn,1
+mpl-2.0,LilyPond,1
+mpl-2.0,Cool,1
+mpl-2.0,Gosu,1
+mpl-2.0,E,1
+mpl-2.0,Mercury,1
+mpl-2.0,Pure Data,1
+mpl-2.0,GDScript,1
+mpl-2.0,API Blueprint,1
+mpl-2.0,KRL,1
+mpl-2.0,Oxygene,1
+mpl-2.0,Monkey,1
+mpl-2.0,Clarion,1
+mpl-2.0,DM,1
+mpl-2.0,Agda,1
+mpl-2.0,YASnippet,1
+mpl-2.0,Gettext Catalog,1
+mpl-2.0,mIRC Script,1
+mpl-2.0,DCPU-16 ASM,1
+mpl-2.0,SRecode Template,1
+mpl-2.0,SuperCollider,1
+mpl-2.0,MQL5,1
+mpl-2.0,sed,1
+mpl-2.0,Clean,1
+mpl-2.0,Component Pascal,1
+mpl-2.0,TLA,1
+mpl-2.0,REXX,1
+mit,JavaScript,686909
+mit,CSS,464616
+mit,HTML,452054
+mit,Ruby,266057
+mit,Shell,244766
+mit,Python,208456
+mit,PHP,162024
+mit,Java,97853
+mit,Objective-C,85948
+mit,Makefile,83985
+mit,C,83689
+mit,C++,83414
+mit,C#,71670
+mit,CoffeeScript,51091
+mit,Go,44288
+mit,ApacheConf,34020
+mit,TypeScript,32899
+mit,Swift,32420
+mit,Batchfile,31130
+mit,Perl,19937
+mit,PowerShell,16300
+mit,CMake,15717
+mit,Lua,12295
+mit,ASP,11225
+mit,Scala,9836
+mit,R,9796
+mit,Dockerfile,9556
+mit,TeX,9204
+mit,Haskell,8952
+mit,Jupyter Notebook,8667
+mit,Assembly,8467
+mit,Arduino,8371
+mit,Rust,8128
+mit,Objective-C++,8043
+mit,Groovy,6409
+mit,GLSL,6290
+mit,Vue,6217
+mit,Vim script,6190
+mit,Matlab,6094
+mit,VimL,6088
+mit,XSLT,5701
+mit,Puppet,5563
+mit,QMake,5421
+mit,Smarty,5155
+mit,Groff,5150
+mit,Handlebars,4890
+mit,Erlang,4757
+mit,Clojure,4677
+mit,Julia,4569
+mit,Elixir,4324
+mit,Cucumber,4090
+mit,Emacs Lisp,3870
+mit,Nginx,3662
+mit,ActionScript,3424
+mit,Visual Basic,3383
+mit,Roff,2976
+mit,Protocol Buffer,2967
+mit,F#,2923
+mit,Processing,2841
+mit,Smalltalk,2524
+mit,PLpgSQL,2451
+mit,Pascal,2439
+mit,Kotlin,2385
+mit,NSIS,2344
+mit,M4,2295
+mit,IDL,2171
+mit,Gherkin,2160
+mit,Prolog,2124
+mit,D,2115
+mit,Common Lisp,2002
+mit,Dart,1875
+mit,Scheme,1704
+mit,AppleScript,1703
+mit,Haxe,1674
+mit,M,1629
+mit,Awk,1560
+mit,PLSQL,1519
+mit,OCaml,1519
+mit,TSQL,1437
+mit,Elm,1327
+mit,Mako,1327
+mit,PostScript,1321
+mit,Yacc,1289
+mit,LiveScript,1282
+mit,Hack,1277
+mit,Tcl,1207
+mit,Logos,1190
+mit,SQLPL,1161
+mit,Cuda,1137
+mit,QML,1027
+mit,OpenEdge ABL,1002
+mit,Racket,980
+mit,Mathematica,960
+mit,Crystal,953
+mit,Lex,945
+mit,HLSL,897
+mit,HCL,885
+mit,Perl6,856
+mit,XML,832
+mit,Inno Setup,780
+mit,Verilog,762
+mit,Nix,748
+mit,FreeMarker,744
+mit,ShaderLab,699
+mit,FORTRAN,684
+mit,Gnuplot,681
+mit,ColdFusion,668
+mit,Standard ML,663
+mit,Eagle,661
+mit,DIGITAL Command Language,656
+mit,GAP,646
+mit,SourcePawn,631
+mit,BitBake,622
+mit,MATLAB,615
+mit,ANTLR,615
+mit,Fortran,592
+mit,Liquid,577
+mit,AutoHotkey,575
+mit,VHDL,548
+mit,DTrace,545
+mit,GDB,509
+mit,OpenSCAD,509
+mit,PureScript,493
+mit,API Blueprint,456
+mit,GCC Machine Description,438
+mit,Perl 6,406
+mit,Nimrod,397
+mit,Coq,383
+mit,Stata,381
+mit,GDScript,378
+mit,Thrift,346
+mit,Cap'n Proto,335
+mit,Apex,333
+mit,FLUX,325
+mit,KiCad,324
+mit,SaltStack,323
+mit,Nim,299
+mit,Rebol,293
+mit,Rich Text Format,286
+mit,Forth,276
+mit,Ada,269
+mit,SAS,256
+mit,SuperCollider,255
+mit,BlitzBasic,252
+mit,Scilab,247
+mit,Brainfuck,244
+mit,SystemVerilog,243
+mit,Squirrel,236
+mit,Vim Snippet,236
+mit,Gosu,236
+mit,Mask,234
+mit,NewLisp,229
+mit,Mercury,225
+mit,Max,216
+mit,RAML,201
+mit,Ragel in Ruby Host,200
+mit,SQL,199
+mit,MAXScript,199
+mit,PAWN,196
+mit,MoonScript,194
+mit,Io,193
+mit,Pure Data,185
+mit,XS,185
+mit,XQuery,184
+mit,eC,184
+mit,AutoIt,184
+mit,Nu,179
+mit,Module Management System,179
+mit,PureBasic,173
+mit,LLVM,172
+mit,DOT,160
+mit,AMPL,160
+mit,JSONiq,160
+mit,Vala,158
+mit,Bison,155
+mit,ABAP,148
+mit,Metal,134
+mit,SQF,129
+mit,AngelScript,128
+mit,LookML,127
+mit,RenderScript,126
+mit,Volt,125
+mit,COBOL,124
+mit,Game Maker Language,123
+mit,AGS Script,116
+mit,CLIPS,115
+mit,YASnippet,114
+mit,Idris,108
+mit,Lasso,107
+mit,Xtend,107
+mit,VCL,106
+mit,Hy,106
+mit,Web Ontology Language,104
+mit,Meson,104
+mit,Starlark,103
+mit,LSL,100
+mit,Eiffel,98
+mit,1C Enterprise,96
+mit,Visual Basic .NET,95
+mit,Limbo,95
+mit,RobotFramework,95
+mit,Ragel,93
+mit,Agda,89
+mit,Monkey,88
+mit,Propeller Spin,88
+mit,UnrealScript,87
+mit,sed,84
+mit,xBase,82
+mit,Boo,82
+mit,ooc,79
+mit,Clean,77
+mit,nesC,76
+mit,POV-Ray SDL,76
+mit,AspectJ,76
+mit,LabVIEW,74
+mit,Slash,74
+mit,Objective-J,73
+mit,Diff,68
+mit,VBScript,68
+mit,LilyPond,65
+mit,Zephir,65
+mit,CartoCSS,64
+mit,Dylan,63
+mit,Modelica,62
+mit,PigLatin,62
+mit,Cirru,61
+mit,Terra,59
+mit,Gettext Catalog,56
+mit,Stan,56
+mit,Nemerle,54
+mit,VBA,53
+mit,Raku,51
+mit,Pawn,50
+mit,NetLogo,50
+mit,Brightscript,48
+mit,Xojo,47
+mit,APL,47
+mit,WebAssembly,46
+mit,Ceylon,46
+mit,LOLCODE,46
+mit,Harbour,45
+mit,SMT,45
+mit,Isabelle,44
+mit,Clarion,43
+mit,Lean,40
+mit,EmberScript,39
+mit,Delphi,38
+mit,SWIG,36
+mit,ChucK,34
+mit,Uno,33
+mit,Cycript,32
+mit,Kit,32
+mit,Alloy,31
+mit,RPC,31
+mit,Bro,31
+mit,E,31
+mit,XC,30
+mit,Csound Document,29
+mit,ATS,28
+mit,SRecode Template,28
+mit,J,28
+mit,IGOR Pro,28
+mit,Fancy,27
+mit,Jsonnet,26
+mit,REXX,26
+mit,XProc,26
+mit,Papyrus,26
+mit,mupad,26
+mit,Bluespec,26
+mit,Red,25
+mit,DM,25
+mit,Factor,25
+mit,Pep8,25
+mit,Frege,23
+mit,Jasmin,22
+mit,Pony,22
+mit,Dogescript,22
+mit,q,22
+mit,Nearley,21
+mit,Redcode,21
+mit,NCL,20
+mit,Pike,20
+mit,Ioke,20
+mit,Augeas,19
+mit,DCPU-16 ASM,19
+mit,Smali,19
+mit,Component Pascal,19
+mit,Inform 7,19
+mit,Cool,18
+mit,Parrot,18
+mit,PicoLisp,18
+mit,Ren'Py,18
+mit,BlitzMax,18
+mit,Arc,18
+mit,Zimpl,17
+mit,HyPhy,17
+mit,Pan,16
+mit,Common Workflow Language,16
+mit,Rascal,16
+mit,KiCad Layout,16
+mit,MQL4,15
+mit,Nextflow,15
+mit,Chapel,14
+mit,Opa,14
+mit,G-code,14
+mit,GAMS,14
+mit,KRL,14
+mit,wisp,13
+mit,Graphviz (DOT),13
+mit,REALbasic,13
+mit,SCSS,12
+mit,PowerBuilder,12
+mit,Golo,12
+mit,Mirah,11
+mit,WebIDL,11
+mit,TLA,11
+mit,Turing,11
+mit,NetLinx,11
+mit,Logtalk,11
+mit,UrWeb,11
+mit,MQL5,11
+mit,Ox,10
+mit,Solidity,10
+mit,Myghty,10
+mit,Ecl,10
+mit,Oz,10
+mit,V,9
+mit,Genshi,9
+mit,Asymptote,9
+mit,Oxygene,9
+mit,Modula-3,8
+mit,Csound,8
+mit,CWeb,8
+mit,Fantom,8
+mit,YARA,7
+mit,ECL,7
+mit,Self,7
+mit,ShellSession,7
+mit,ObjectScript,7
+mit,HiveQL,7
+mit,Moocode,7
+mit,MTML,7
+mit,Modula-2,7
+mit,EQ,7
+mit,Dhall,7
+mit,mIRC Script,6
+mit,Reason,6
+mit,Grammatical Framework,6
+mit,Click,6
+mit,Nit,6
+mit,LoomScript,6
+mit,LFE,6
+mit,Opal,6
+mit,X10,5
+mit,Tea,5
+mit,Charity,5
+mit,Csound Score,5
+mit,F*,5
+mit,TI Program,5
+mit,Omgrofl,5
+mit,JFlex,5
+mit,Less,4
+mit,P4,4
+mit,Befunge,4
+mit,SmPL,4
+mit,Filebench WML,4
+mit,Zeek,3
+mit,Shen,3
+mit,Zig,3
+mit,XPages,3
+mit,HolyC,2
+mit,Slice,2
+mit,Nunjucks,2
+mit,ZenScript,2
+mit,DataWeave,2
+mit,Jolie,2
+mit,YAML,2
+mit,Riot,2
+mit,Rouge,2
+mit,Ring,2
+mit,NetLinx+ERB,2
+mit,Faust,2
+mit,Glyph,2
+mit,TXL,2
+mit,Markdown,2
+mit,NASL,1
+mit,CodeQL,1
+mit,Sass,1
+mit,wdl,1
+mit,Odin,1
+mit,Ballerina,1
+mit,KiCad Schematic,1
+mit,Grace,1
+mit,Blade,1
+mit,Genie,1
+mit,Open Policy Agent,1
+lgpl-3.0,Shell,8036
+lgpl-3.0,Java,7947
+lgpl-3.0,Python,7935
+lgpl-3.0,JavaScript,7762
+lgpl-3.0,C++,7268
+lgpl-3.0,C,6385
+lgpl-3.0,CSS,6125
+lgpl-3.0,HTML,5832
+lgpl-3.0,PHP,4213
+lgpl-3.0,Makefile,4160
+lgpl-3.0,C#,2173
+lgpl-3.0,CMake,2050
+lgpl-3.0,Batchfile,1779
+lgpl-3.0,Objective-C,1704
+lgpl-3.0,Ruby,1613
+lgpl-3.0,Perl,1214
+lgpl-3.0,QMake,856
+lgpl-3.0,Go,694
+lgpl-3.0,Assembly,663
+lgpl-3.0,ApacheConf,607
+lgpl-3.0,TeX,585
+lgpl-3.0,R,522
+lgpl-3.0,M4,518
+lgpl-3.0,XSLT,495
+lgpl-3.0,PowerShell,440
+lgpl-3.0,Lua,432
+lgpl-3.0,Groovy,411
+lgpl-3.0,Arduino,402
+lgpl-3.0,Prolog,355
+lgpl-3.0,Scala,338
+lgpl-3.0,CoffeeScript,329
+lgpl-3.0,Haskell,317
+lgpl-3.0,Smarty,314
+lgpl-3.0,Dockerfile,302
+lgpl-3.0,Groff,296
+lgpl-3.0,Roff,294
+lgpl-3.0,Matlab,290
+lgpl-3.0,Visual Basic,289
+lgpl-3.0,GLSL,261
+lgpl-3.0,TypeScript,240
+lgpl-3.0,ASP,228
+lgpl-3.0,QML,226
+lgpl-3.0,Pascal,187
+lgpl-3.0,Protocol Buffer,184
+lgpl-3.0,Emacs Lisp,182
+lgpl-3.0,Scheme,179
+lgpl-3.0,NSIS,175
+lgpl-3.0,ActionScript,174
+lgpl-3.0,Awk,158
+lgpl-3.0,OCaml,157
+lgpl-3.0,Objective-C++,150
+lgpl-3.0,Processing,145
+lgpl-3.0,PLpgSQL,143
+lgpl-3.0,IDL,143
+lgpl-3.0,Tcl,140
+lgpl-3.0,Yacc,137
+lgpl-3.0,Rust,135
+lgpl-3.0,Jupyter Notebook,133
+lgpl-3.0,Lex,130
+lgpl-3.0,TSQL,124
+lgpl-3.0,FreeMarker,121
+lgpl-3.0,Erlang,118
+lgpl-3.0,PLSQL,115
+lgpl-3.0,Swift,114
+lgpl-3.0,Perl6,111
+lgpl-3.0,VimL,107
+lgpl-3.0,D,106
+lgpl-3.0,Cuda,103
+lgpl-3.0,Clojure,101
+lgpl-3.0,SQLPL,101
+lgpl-3.0,Vala,100
+lgpl-3.0,Common Lisp,99
+lgpl-3.0,M,97
+lgpl-3.0,Racket,95
+lgpl-3.0,Fortran,95
+lgpl-3.0,GAP,94
+lgpl-3.0,MATLAB,89
+lgpl-3.0,Logos,87
+lgpl-3.0,FORTRAN,86
+lgpl-3.0,Smalltalk,85
+lgpl-3.0,Puppet,83
+lgpl-3.0,Gnuplot,82
+lgpl-3.0,Inno Setup,80
+lgpl-3.0,Verilog,77
+lgpl-3.0,Elixir,71
+lgpl-3.0,Vim script,68
+lgpl-3.0,Kotlin,68
+lgpl-3.0,Meson,66
+lgpl-3.0,Nginx,64
+lgpl-3.0,VHDL,62
+lgpl-3.0,FLUX,58
+lgpl-3.0,SourcePawn,57
+lgpl-3.0,ANTLR,57
+lgpl-3.0,F#,56
+lgpl-3.0,Ada,56
+lgpl-3.0,PostScript,55
+lgpl-3.0,Cucumber,49
+lgpl-3.0,DIGITAL Command Language,48
+lgpl-3.0,Dart,46
+lgpl-3.0,Nix,46
+lgpl-3.0,SAS,45
+lgpl-3.0,Perl 6,45
+lgpl-3.0,Scilab,44
+lgpl-3.0,Vue,44
+lgpl-3.0,Hack,43
+lgpl-3.0,ColdFusion,42
+lgpl-3.0,CLIPS,41
+lgpl-3.0,PureBasic,40
+lgpl-3.0,Module Management System,40
+lgpl-3.0,XS,40
+lgpl-3.0,Stata,38
+lgpl-3.0,Coq,38
+lgpl-3.0,eC,38
+lgpl-3.0,Rebol,37
+lgpl-3.0,Gherkin,36
+lgpl-3.0,Rascal,35
+lgpl-3.0,Standard ML,35
+lgpl-3.0,XML,34
+lgpl-3.0,SystemVerilog,33
+lgpl-3.0,Mathematica,33
+lgpl-3.0,Julia,33
+lgpl-3.0,Eagle,31
+lgpl-3.0,XQuery,31
+lgpl-3.0,Mako,31
+lgpl-3.0,OpenSCAD,30
+lgpl-3.0,Haxe,30
+lgpl-3.0,Forth,29
+lgpl-3.0,Handlebars,27
+lgpl-3.0,Pure Data,27
+lgpl-3.0,HLSL,26
+lgpl-3.0,Max,25
+lgpl-3.0,Web Ontology Language,25
+lgpl-3.0,Rich Text Format,23
+lgpl-3.0,GDB,21
+lgpl-3.0,sed,21
+lgpl-3.0,AutoHotkey,21
+lgpl-3.0,COBOL,19
+lgpl-3.0,SWIG,19
+lgpl-3.0,Xtend,19
+lgpl-3.0,OpenEdge ABL,18
+lgpl-3.0,KiCad,18
+lgpl-3.0,NewLisp,18
+lgpl-3.0,AppleScript,17
+lgpl-3.0,ABAP,17
+lgpl-3.0,Mercury,15
+lgpl-3.0,LLVM,15
+lgpl-3.0,Thrift,14
+lgpl-3.0,ShaderLab,14
+lgpl-3.0,SQL,13
+lgpl-3.0,AMPL,13
+lgpl-3.0,AutoIt,13
+lgpl-3.0,ooc,13
+lgpl-3.0,Elm,12
+lgpl-3.0,PAWN,12
+lgpl-3.0,Raku,12
+lgpl-3.0,DOT,12
+lgpl-3.0,Bison,11
+lgpl-3.0,Gosu,11
+lgpl-3.0,AGS Script,11
+lgpl-3.0,POV-Ray SDL,10
+lgpl-3.0,AspectJ,10
+lgpl-3.0,RAML,10
+lgpl-3.0,SQF,9
+lgpl-3.0,VBA,9
+lgpl-3.0,DTrace,9
+lgpl-3.0,Solidity,9
+lgpl-3.0,PureScript,9
+lgpl-3.0,Slash,9
+lgpl-3.0,Lasso,9
+lgpl-3.0,xBase,9
+lgpl-3.0,Eiffel,8
+lgpl-3.0,LabVIEW,8
+lgpl-3.0,XProc,8
+lgpl-3.0,Objective-J,8
+lgpl-3.0,Ragel in Ruby Host,8
+lgpl-3.0,SaltStack,8
+lgpl-3.0,MAXScript,7
+lgpl-3.0,RPC,7
+lgpl-3.0,Nim,7
+lgpl-3.0,BitBake,7
+lgpl-3.0,AngelScript,7
+lgpl-3.0,LiveScript,7
+lgpl-3.0,Ceylon,7
+lgpl-3.0,UnrealScript,6
+lgpl-3.0,CartoCSS,6
+lgpl-3.0,J,6
+lgpl-3.0,Mask,6
+lgpl-3.0,Visual Basic .NET,6
+lgpl-3.0,GCC Machine Description,6
+lgpl-3.0,Game Maker Language,6
+lgpl-3.0,BlitzBasic,6
+lgpl-3.0,Boo,6
+lgpl-3.0,BlitzMax,5
+lgpl-3.0,SuperCollider,5
+lgpl-3.0,Nimrod,5
+lgpl-3.0,Apex,5
+lgpl-3.0,HCL,5
+lgpl-3.0,DM,5
+lgpl-3.0,VBScript,5
+lgpl-3.0,Lean,5
+lgpl-3.0,Liquid,5
+lgpl-3.0,Gettext Catalog,5
+lgpl-3.0,SMT,5
+lgpl-3.0,XC,4
+lgpl-3.0,GDScript,4
+lgpl-3.0,Crystal,4
+lgpl-3.0,Brainfuck,4
+lgpl-3.0,Terra,4
+lgpl-3.0,G-code,4
+lgpl-3.0,NetLogo,4
+lgpl-3.0,Arc,4
+lgpl-3.0,Xojo,4
+lgpl-3.0,Squirrel,4
+lgpl-3.0,LOLCODE,4
+lgpl-3.0,Isabelle,4
+lgpl-3.0,RobotFramework,4
+lgpl-3.0,V,4
+lgpl-3.0,mupad,3
+lgpl-3.0,Augeas,3
+lgpl-3.0,1C Enterprise,3
+lgpl-3.0,Diff,3
+lgpl-3.0,API Blueprint,3
+lgpl-3.0,Nu,3
+lgpl-3.0,Pawn,3
+lgpl-3.0,Io,3
+lgpl-3.0,LSL,3
+lgpl-3.0,Frege,3
+lgpl-3.0,nesC,3
+lgpl-3.0,NetLinx,3
+lgpl-3.0,LilyPond,3
+lgpl-3.0,ChucK,3
+lgpl-3.0,Grammatical Framework,3
+lgpl-3.0,Ren'Py,2
+lgpl-3.0,Brightscript,2
+lgpl-3.0,Pan,2
+lgpl-3.0,IGOR Pro,2
+lgpl-3.0,Modelica,2
+lgpl-3.0,Volt,2
+lgpl-3.0,Graphviz (DOT),2
+lgpl-3.0,Cirru,2
+lgpl-3.0,JSONiq,2
+lgpl-3.0,Limbo,2
+lgpl-3.0,Component Pascal,2
+lgpl-3.0,Rouge,2
+lgpl-3.0,Nemerle,2
+lgpl-3.0,F*,2
+lgpl-3.0,WebAssembly,2
+lgpl-3.0,Jasmin,2
+lgpl-3.0,Cap'n Proto,2
+lgpl-3.0,Alloy,2
+lgpl-3.0,Clean,2
+lgpl-3.0,Idris,2
+lgpl-3.0,VCL,1
+lgpl-3.0,Red,1
+lgpl-3.0,HyPhy,1
+lgpl-3.0,Modula-2,1
+lgpl-3.0,ObjectScript,1
+lgpl-3.0,Bluespec,1
+lgpl-3.0,UrWeb,1
+lgpl-3.0,REALbasic,1
+lgpl-3.0,RenderScript,1
+lgpl-3.0,Hy,1
+lgpl-3.0,DCPU-16 ASM,1
+lgpl-3.0,Cool,1
+lgpl-3.0,Parrot,1
+lgpl-3.0,Logtalk,1
+lgpl-3.0,Nit,1
+lgpl-3.0,Vim Snippet,1
+lgpl-3.0,YASnippet,1
+lgpl-3.0,Clarion,1
+lgpl-3.0,Zephir,1
+lgpl-3.0,MQL4,1
+lgpl-3.0,MQL5,1
+lgpl-3.0,E,1
+lgpl-3.0,Metal,1
+lgpl-3.0,CWeb,1
+lgpl-3.0,KiCad Layout,1
+lgpl-3.0,Smali,1
+lgpl-3.0,Ragel,1
+lgpl-3.0,Ecl,1
+lgpl-3.0,MoonScript,1
+lgpl-3.0,DataWeave,1
+lgpl-3.0,Dylan,1
+lgpl-3.0,PigLatin,1
+lgpl-3.0,REXX,1
+lgpl-3.0,YARA,1
+lgpl-3.0,Pike,1
+lgpl-3.0,Delphi,1
+lgpl-3.0,Harbour,1
+lgpl-3.0,GAMS,1
+lgpl-3.0,Zimpl,1
+lgpl-2.1,Shell,9891
+lgpl-2.1,C,9664
+lgpl-2.1,C++,7862
+lgpl-2.1,Python,5808
+lgpl-2.1,Makefile,5029
+lgpl-2.1,Java,4031
+lgpl-2.1,CSS,3380
+lgpl-2.1,HTML,3377
+lgpl-2.1,JavaScript,3323
+lgpl-2.1,Perl,2903
+lgpl-2.1,Objective-C,2690
+lgpl-2.1,PHP,2137
+lgpl-2.1,CMake,1852
+lgpl-2.1,Batchfile,1783
+lgpl-2.1,Assembly,1155
+lgpl-2.1,Ruby,1122
+lgpl-2.1,M4,1076
+lgpl-2.1,C#,933
+lgpl-2.1,Groff,759
+lgpl-2.1,XSLT,707
+lgpl-2.1,QMake,668
+lgpl-2.1,Emacs Lisp,538
+lgpl-2.1,Prolog,523
+lgpl-2.1,OCaml,514
+lgpl-2.1,Lua,487
+lgpl-2.1,Arduino,480
+lgpl-2.1,TeX,475
+lgpl-2.1,Yacc,330
+lgpl-2.1,Lex,322
+lgpl-2.1,Roff,311
+lgpl-2.1,Logos,296
+lgpl-2.1,R,254
+lgpl-2.1,Matlab,247
+lgpl-2.1,Processing,235
+lgpl-2.1,PowerShell,229
+lgpl-2.1,NSIS,221
+lgpl-2.1,Objective-C++,221
+lgpl-2.1,Groovy,218
+lgpl-2.1,Smarty,214
+lgpl-2.1,FORTRAN,209
+lgpl-2.1,QML,206
+lgpl-2.1,GLSL,206
+lgpl-2.1,Awk,205
+lgpl-2.1,ApacheConf,204
+lgpl-2.1,Gnuplot,197
+lgpl-2.1,VimL,195
+lgpl-2.1,Vala,194
+lgpl-2.1,Tcl,190
+lgpl-2.1,Standard ML,188
+lgpl-2.1,Go,180
+lgpl-2.1,GAP,173
+lgpl-2.1,Scala,167
+lgpl-2.1,Scheme,167
+lgpl-2.1,Pascal,161
+lgpl-2.1,Visual Basic,159
+lgpl-2.1,IDL,158
+lgpl-2.1,Haskell,157
+lgpl-2.1,Dockerfile,149
+lgpl-2.1,SourcePawn,145
+lgpl-2.1,TypeScript,139
+lgpl-2.1,Common Lisp,136
+lgpl-2.1,Fortran,136
+lgpl-2.1,ASP,133
+lgpl-2.1,Perl6,129
+lgpl-2.1,Verilog,129
+lgpl-2.1,Smalltalk,113
+lgpl-2.1,XS,110
+lgpl-2.1,Erlang,107
+lgpl-2.1,Rust,104
+lgpl-2.1,Meson,103
+lgpl-2.1,D,102
+lgpl-2.1,Jupyter Notebook,98
+lgpl-2.1,Inno Setup,93
+lgpl-2.1,XQuery,93
+lgpl-2.1,AppleScript,93
+lgpl-2.1,PostScript,89
+lgpl-2.1,Protocol Buffer,87
+lgpl-2.1,ActionScript,83
+lgpl-2.1,Scilab,82
+lgpl-2.1,PLpgSQL,77
+lgpl-2.1,Bison,72
+lgpl-2.1,Augeas,68
+lgpl-2.1,Racket,68
+lgpl-2.1,CoffeeScript,67
+lgpl-2.1,Rebol,67
+lgpl-2.1,Cuda,66
+lgpl-2.1,Coq,64
+lgpl-2.1,DTrace,61
+lgpl-2.1,TSQL,61
+lgpl-2.1,Nix,58
+lgpl-2.1,M,58
+lgpl-2.1,SQLPL,52
+lgpl-2.1,VHDL,52
+lgpl-2.1,Vim script,50
+lgpl-2.1,Stata,49
+lgpl-2.1,PLSQL,48
+lgpl-2.1,Mathematica,46
+lgpl-2.1,MATLAB,46
+lgpl-2.1,ColdFusion,44
+lgpl-2.1,sed,44
+lgpl-2.1,Redcode,44
+lgpl-2.1,OpenEdge ABL,43
+lgpl-2.1,DIGITAL Command Language,42
+lgpl-2.1,Perl 6,42
+lgpl-2.1,XML,41
+lgpl-2.1,GDB,41
+lgpl-2.1,Objective-J,41
+lgpl-2.1,F#,40
+lgpl-2.1,DOT,40
+lgpl-2.1,CLIPS,38
+lgpl-2.1,KiCad,36
+lgpl-2.1,Arc,35
+lgpl-2.1,Forth,34
+lgpl-2.1,Elixir,33
+lgpl-2.1,Eagle,32
+lgpl-2.1,SAS,32
+lgpl-2.1,Swift,29
+lgpl-2.1,Clojure,28
+lgpl-2.1,SystemVerilog,26
+lgpl-2.1,Diff,26
+lgpl-2.1,FreeMarker,26
+lgpl-2.1,Cap'n Proto,25
+lgpl-2.1,Pawn,25
+lgpl-2.1,AMPL,25
+lgpl-2.1,Module Management System,24
+lgpl-2.1,SWIG,23
+lgpl-2.1,LLVM,23
+lgpl-2.1,Max,23
+lgpl-2.1,Puppet,23
+lgpl-2.1,Gettext Catalog,23
+lgpl-2.1,BitBake,22
+lgpl-2.1,Gherkin,22
+lgpl-2.1,Nginx,21
+lgpl-2.1,POV-Ray SDL,21
+lgpl-2.1,Jasmin,21
+lgpl-2.1,Haxe,20
+lgpl-2.1,xBase,19
+lgpl-2.1,Hack,18
+lgpl-2.1,Cucumber,18
+lgpl-2.1,Rich Text Format,17
+lgpl-2.1,Julia,16
+lgpl-2.1,OpenSCAD,16
+lgpl-2.1,RPC,16
+lgpl-2.1,Riot,15
+lgpl-2.1,Vim Snippet,15
+lgpl-2.1,E,15
+lgpl-2.1,Brainfuck,15
+lgpl-2.1,Eiffel,15
+lgpl-2.1,Ada,15
+lgpl-2.1,FLUX,15
+lgpl-2.1,nesC,14
+lgpl-2.1,AspectJ,14
+lgpl-2.1,Raku,14
+lgpl-2.1,Csound,13
+lgpl-2.1,PAWN,13
+lgpl-2.1,UnrealScript,13
+lgpl-2.1,Kotlin,13
+lgpl-2.1,NewLisp,12
+lgpl-2.1,Slash,12
+lgpl-2.1,ANTLR,12
+lgpl-2.1,XProc,12
+lgpl-2.1,GCC Machine Description,12
+lgpl-2.1,HLSL,12
+lgpl-2.1,Web Ontology Language,11
+lgpl-2.1,SmPL,10
+lgpl-2.1,Pure Data,10
+lgpl-2.1,Mercury,10
+lgpl-2.1,Delphi,9
+lgpl-2.1,LiveScript,9
+lgpl-2.1,Limbo,8
+lgpl-2.1,XC,8
+lgpl-2.1,V,8
+lgpl-2.1,Csound Document,7
+lgpl-2.1,Vue,7
+lgpl-2.1,Opa,7
+lgpl-2.1,COBOL,7
+lgpl-2.1,eC,7
+lgpl-2.1,Visual Basic .NET,7
+lgpl-2.1,Xtend,7
+lgpl-2.1,Clean,7
+lgpl-2.1,SuperCollider,7
+lgpl-2.1,Dart,6
+lgpl-2.1,LilyPond,6
+lgpl-2.1,PureBasic,6
+lgpl-2.1,Ragel in Ruby Host,5
+lgpl-2.1,AngelScript,5
+lgpl-2.1,AGS Script,5
+lgpl-2.1,Pike,5
+lgpl-2.1,Nemerle,5
+lgpl-2.1,AutoIt,5
+lgpl-2.1,Game Maker Language,5
+lgpl-2.1,EmberScript,5
+lgpl-2.1,ooc,5
+lgpl-2.1,WebAssembly,4
+lgpl-2.1,Lasso,4
+lgpl-2.1,Csound Score,4
+lgpl-2.1,Clarion,4
+lgpl-2.1,Mako,4
+lgpl-2.1,IGOR Pro,4
+lgpl-2.1,Apex,4
+lgpl-2.1,SQL,4
+lgpl-2.1,q,4
+lgpl-2.1,Nu,4
+lgpl-2.1,LSL,3
+lgpl-2.1,Pan,3
+lgpl-2.1,Modelica,3
+lgpl-2.1,Component Pascal,3
+lgpl-2.1,Boo,3
+lgpl-2.1,Mask,3
+lgpl-2.1,BlitzBasic,3
+lgpl-2.1,Handlebars,3
+lgpl-2.1,Isabelle,3
+lgpl-2.1,AutoHotkey,3
+lgpl-2.1,HyPhy,3
+lgpl-2.1,Thrift,3
+lgpl-2.1,Frege,3
+lgpl-2.1,Graphviz (DOT),3
+lgpl-2.1,PigLatin,3
+lgpl-2.1,VBA,3
+lgpl-2.1,VBScript,2
+lgpl-2.1,JFlex,2
+lgpl-2.1,Faust,2
+lgpl-2.1,Nim,2
+lgpl-2.1,Idris,2
+lgpl-2.1,RAML,2
+lgpl-2.1,Red,2
+lgpl-2.1,Ragel,2
+lgpl-2.1,Smali,2
+lgpl-2.1,Gosu,2
+lgpl-2.1,Bro,2
+lgpl-2.1,1C Enterprise,2
+lgpl-2.1,HolyC,2
+lgpl-2.1,MAXScript,2
+lgpl-2.1,Jolie,2
+lgpl-2.1,KiCad Layout,2
+lgpl-2.1,Nimrod,1
+lgpl-2.1,BlitzMax,1
+lgpl-2.1,Monkey,1
+lgpl-2.1,ShaderLab,1
+lgpl-2.1,Modula-2,1
+lgpl-2.1,MQL4,1
+lgpl-2.1,Squirrel,1
+lgpl-2.1,Starlark,1
+lgpl-2.1,DM,1
+lgpl-2.1,Agda,1
+lgpl-2.1,SQF,1
+lgpl-2.1,SaltStack,1
+lgpl-2.1,MoonScript,1
+lgpl-2.1,CWeb,1
+lgpl-2.1,Brightscript,1
+lgpl-2.1,RobotFramework,1
+lgpl-2.1,Terra,1
+lgpl-2.1,F*,1
+lgpl-2.1,Oxygene,1
+lgpl-2.1,CartoCSS,1
+lgpl-2.1,J,1
+lgpl-2.1,Cool,1
+lgpl-2.1,mIRC Script,1
+lgpl-2.1,Hy,1
+lgpl-2.1,Nextflow,1
+lgpl-2.1,Dylan,1
+lgpl-2.1,HiveQL,1
+lgpl-2.1,Crystal,1
+lgpl-2.1,Genshi,1
+isc,JavaScript,8509
+isc,HTML,3300
+isc,Shell,2998
+isc,CSS,2830
+isc,Python,2480
+isc,Makefile,2107
+isc,C,1602
+isc,C++,870
+isc,Go,818
+isc,Ruby,776
+isc,Java,594
+isc,PHP,553
+isc,TypeScript,338
+isc,CoffeeScript,324
+isc,Perl,284
+isc,Erlang,279
+isc,OCaml,268
+isc,Objective-C,261
+isc,Batchfile,235
+isc,Haskell,216
+isc,C#,210
+isc,CMake,200
+isc,Lua,161
+isc,Assembly,159
+isc,Rust,124
+isc,Dockerfile,119
+isc,Roff,96
+isc,Elixir,91
+isc,Clojure,84
+isc,Groff,80
+isc,Swift,78
+isc,TeX,75
+isc,VimL,71
+isc,Common Lisp,69
+isc,ApacheConf,65
+isc,Emacs Lisp,64
+isc,Vim script,63
+isc,Puppet,62
+isc,M4,61
+isc,Handlebars,58
+isc,XSLT,54
+isc,Protocol Buffer,49
+isc,Visual Basic,48
+isc,Smarty,48
+isc,LiveScript,48
+isc,Groovy,46
+isc,PowerShell,43
+isc,Ada,43
+isc,Scala,42
+isc,PLpgSQL,42
+isc,Lex,38
+isc,GLSL,37
+isc,Standard ML,36
+isc,ASP,35
+isc,Prolog,35
+isc,R,34
+isc,Yacc,33
+isc,Arduino,33
+isc,Tcl,32
+isc,Jupyter Notebook,32
+isc,Matlab,30
+isc,D,30
+isc,Awk,30
+isc,Cucumber,29
+isc,Kotlin,27
+isc,Vue,25
+isc,Scheme,25
+isc,Gnuplot,24
+isc,Racket,23
+isc,Verilog,23
+isc,Gherkin,21
+isc,Nginx,20
+isc,Julia,20
+isc,QMake,19
+isc,Pascal,18
+isc,Coq,16
+isc,Perl6,15
+isc,TSQL,15
+isc,Augeas,15
+isc,HCL,14
+isc,Objective-C++,13
+isc,Logos,12
+isc,F#,12
+isc,Hack,11
+isc,SystemVerilog,11
+isc,Mako,11
+isc,SaltStack,10
+isc,Forth,10
+isc,SQLPL,10
+isc,NSIS,9
+isc,GAP,9
+isc,Smalltalk,9
+isc,FORTRAN,9
+isc,Elm,9
+isc,Meson,8
+isc,QML,8
+isc,OpenSCAD,8
+isc,AppleScript,8
+isc,API Blueprint,7
+isc,PostScript,7
+isc,Haxe,7
+isc,Perl 6,7
+isc,M,7
+isc,Nix,7
+isc,PLSQL,7
+isc,VHDL,7
+isc,ANTLR,7
+isc,IDL,6
+isc,LLVM,6
+isc,OpenEdge ABL,6
+isc,ActionScript,6
+isc,Pawn,6
+isc,MATLAB,6
+isc,Brainfuck,5
+isc,GDB,5
+isc,AGS Script,5
+isc,PureScript,4
+isc,SQF,4
+isc,DTrace,4
+isc,SourcePawn,4
+isc,Vala,4
+isc,XML,4
+isc,Dart,4
+isc,NewLisp,4
+isc,Pure Data,4
+isc,Processing,3
+isc,Limbo,3
+isc,Inno Setup,3
+isc,Nim,3
+isc,CartoCSS,3
+isc,Nimrod,3
+isc,LabVIEW,3
+isc,DIGITAL Command Language,3
+isc,GCC Machine Description,3
+isc,Mathematica,3
+isc,Max,3
+isc,Turing,3
+isc,Rich Text Format,3
+isc,Crystal,3
+isc,sed,3
+isc,MoonScript,3
+isc,FreeMarker,3
+isc,Thrift,3
+isc,Bison,3
+isc,RAML,3
+isc,Ragel in Ruby Host,2
+isc,YASnippet,2
+isc,Diff,2
+isc,Cuda,2
+isc,Dhall,2
+isc,ChucK,2
+isc,POV-Ray SDL,2
+isc,Scilab,2
+isc,Nearley,2
+isc,SMT,2
+isc,Io,2
+isc,Eagle,2
+isc,Starlark,2
+isc,CSON,2
+isc,ooc,2
+isc,SQL,2
+isc,Game Maker Language,2
+isc,Fortran,2
+isc,RPC,1
+isc,Cap'n Proto,1
+isc,VBA,1
+isc,PureBasic,1
+isc,Papyrus,1
+isc,1C Enterprise,1
+isc,BitBake,1
+isc,EmberScript,1
+isc,IGOR Pro,1
+isc,KRL,1
+isc,Module Management System,1
+isc,PAWN,1
+isc,Rebol,1
+isc,SuperCollider,1
+isc,Terra,1
+isc,XS,1
+isc,Xtend,1
+isc,Agda,1
+isc,Nextflow,1
+isc,CWeb,1
+isc,APL,1
+isc,DataWeave,1
+isc,SCSS,1
+isc,Apex,1
+isc,RobotFramework,1
+isc,Slash,1
+isc,FLUX,1
+isc,DOT,1
+isc,Jolie,1
+isc,Nu,1
+isc,Stan,1
+isc,Idris,1
+isc,Cool,1
+isc,V,1
+isc,Volt,1
+isc,HyPhy,1
+isc,Liquid,1
+isc,Csound Document,1
+isc,COBOL,1
+isc,Mercury,1
+isc,REXX,1
+isc,Pony,1
+isc,AutoHotkey,1
+gpl-3.0,Python,82194
+gpl-3.0,Shell,78559
+gpl-3.0,JavaScript,74765
+gpl-3.0,CSS,66171
+gpl-3.0,HTML,64641
+gpl-3.0,C++,51478
+gpl-3.0,C,50424
+gpl-3.0,Java,46137
+gpl-3.0,Makefile,37382
+gpl-3.0,PHP,36015
+gpl-3.0,Ruby,14803
+gpl-3.0,C#,14382
+gpl-3.0,Perl,14232
+gpl-3.0,Batchfile,13495
+gpl-3.0,Objective-C,12827
+gpl-3.0,CMake,10636
+gpl-3.0,R,6132
+gpl-3.0,Assembly,6091
+gpl-3.0,TeX,5561
+gpl-3.0,ApacheConf,5048
+gpl-3.0,QMake,4915
+gpl-3.0,Go,4825
+gpl-3.0,Arduino,4698
+gpl-3.0,Lua,4644
+gpl-3.0,Emacs Lisp,4415
+gpl-3.0,XSLT,4096
+gpl-3.0,Matlab,3849
+gpl-3.0,PowerShell,3580
+gpl-3.0,Groff,3360
+gpl-3.0,CoffeeScript,3240
+gpl-3.0,M4,3199
+gpl-3.0,Haskell,3132
+gpl-3.0,TypeScript,2601
+gpl-3.0,Dockerfile,2488
+gpl-3.0,Jupyter Notebook,2395
+gpl-3.0,Smarty,2347
+gpl-3.0,Scala,2316
+gpl-3.0,Roff,2311
+gpl-3.0,GLSL,2252
+gpl-3.0,Groovy,2202
+gpl-3.0,Visual Basic,2051
+gpl-3.0,Prolog,1980
+gpl-3.0,ASP,1857
+gpl-3.0,NSIS,1695
+gpl-3.0,Processing,1665
+gpl-3.0,Pascal,1601
+gpl-3.0,Tcl,1544
+gpl-3.0,Yacc,1501
+gpl-3.0,Awk,1464
+gpl-3.0,QML,1447
+gpl-3.0,Lex,1352
+gpl-3.0,Scheme,1326
+gpl-3.0,Swift,1326
+gpl-3.0,Rust,1325
+gpl-3.0,Puppet,1273
+gpl-3.0,Objective-C++,1262
+gpl-3.0,Vim script,1231
+gpl-3.0,PLpgSQL,1187
+gpl-3.0,PLSQL,1169
+gpl-3.0,ActionScript,1165
+gpl-3.0,DIGITAL Command Language,1139
+gpl-3.0,VimL,1045
+gpl-3.0,M,1038
+gpl-3.0,Inno Setup,1031
+gpl-3.0,TSQL,909
+gpl-3.0,Common Lisp,880
+gpl-3.0,Vue,875
+gpl-3.0,SourcePawn,870
+gpl-3.0,D,860
+gpl-3.0,SQLPL,848
+gpl-3.0,Cuda,848
+gpl-3.0,Erlang,798
+gpl-3.0,Fortran,778
+gpl-3.0,FORTRAN,758
+gpl-3.0,IDL,754
+gpl-3.0,Protocol Buffer,749
+gpl-3.0,Gherkin,737
+gpl-3.0,Clojure,728
+gpl-3.0,Kotlin,712
+gpl-3.0,Vala,697
+gpl-3.0,MATLAB,687
+gpl-3.0,Cucumber,671
+gpl-3.0,Nginx,666
+gpl-3.0,Gnuplot,629
+gpl-3.0,Perl6,628
+gpl-3.0,Smalltalk,625
+gpl-3.0,Verilog,624
+gpl-3.0,Hack,589
+gpl-3.0,Logos,571
+gpl-3.0,Eagle,571
+gpl-3.0,XS,567
+gpl-3.0,OCaml,557
+gpl-3.0,Mathematica,517
+gpl-3.0,OpenEdge ABL,512
+gpl-3.0,OpenSCAD,495
+gpl-3.0,eC,464
+gpl-3.0,Rebol,454
+gpl-3.0,VHDL,452
+gpl-3.0,Racket,446
+gpl-3.0,PostScript,440
+gpl-3.0,Mako,437
+gpl-3.0,Scilab,434
+gpl-3.0,Nix,368
+gpl-3.0,Perl 6,350
+gpl-3.0,Ada,339
+gpl-3.0,SuperCollider,337
+gpl-3.0,Elixir,333
+gpl-3.0,GAP,322
+gpl-3.0,Forth,316
+gpl-3.0,FreeMarker,315
+gpl-3.0,KiCad,312
+gpl-3.0,AppleScript,310
+gpl-3.0,Julia,301
+gpl-3.0,F#,287
+gpl-3.0,ANTLR,278
+gpl-3.0,GDB,271
+gpl-3.0,Standard ML,269
+gpl-3.0,HLSL,244
+gpl-3.0,AutoHotkey,237
+gpl-3.0,EmberScript,236
+gpl-3.0,SystemVerilog,235
+gpl-3.0,Bison,229
+gpl-3.0,Meson,215
+gpl-3.0,ShaderLab,203
+gpl-3.0,Pure Data,197
+gpl-3.0,NewLisp,196
+gpl-3.0,AutoIt,190
+gpl-3.0,SAS,186
+gpl-3.0,Haxe,184
+gpl-3.0,Elm,183
+gpl-3.0,XML,181
+gpl-3.0,ColdFusion,174
+gpl-3.0,Stata,172
+gpl-3.0,Thrift,169
+gpl-3.0,Rich Text Format,168
+gpl-3.0,Coq,167
+gpl-3.0,sed,164
+gpl-3.0,Module Management System,162
+gpl-3.0,Dart,153
+gpl-3.0,Max,146
+gpl-3.0,AMPL,139
+gpl-3.0,Brainfuck,136
+gpl-3.0,DTrace,130
+gpl-3.0,SQF,129
+gpl-3.0,Handlebars,128
+gpl-3.0,HCL,126
+gpl-3.0,AGS Script,124
+gpl-3.0,LLVM,124
+gpl-3.0,CLIPS,123
+gpl-3.0,GDScript,116
+gpl-3.0,Slash,113
+gpl-3.0,nesC,111
+gpl-3.0,XQuery,107
+gpl-3.0,LilyPond,107
+gpl-3.0,Mercury,106
+gpl-3.0,Web Ontology Language,105
+gpl-3.0,LiveScript,99
+gpl-3.0,GCC Machine Description,97
+gpl-3.0,DOT,96
+gpl-3.0,Game Maker Language,86
+gpl-3.0,FLUX,86
+gpl-3.0,PAWN,82
+gpl-3.0,XC,82
+gpl-3.0,YASnippet,80
+gpl-3.0,COBOL,78
+gpl-3.0,SaltStack,77
+gpl-3.0,Ragel in Ruby Host,76
+gpl-3.0,Limbo,76
+gpl-3.0,POV-Ray SDL,74
+gpl-3.0,API Blueprint,72
+gpl-3.0,Diff,71
+gpl-3.0,Squirrel,71
+gpl-3.0,UnrealScript,71
+gpl-3.0,Pawn,70
+gpl-3.0,Gettext Catalog,69
+gpl-3.0,E,68
+gpl-3.0,AspectJ,67
+gpl-3.0,Cap'n Proto,66
+gpl-3.0,Modula-2,66
+gpl-3.0,xBase,65
+gpl-3.0,Xtend,65
+gpl-3.0,SQL,63
+gpl-3.0,Raku,55
+gpl-3.0,AngelScript,55
+gpl-3.0,RenderScript,55
+gpl-3.0,Apex,54
+gpl-3.0,BitBake,52
+gpl-3.0,Eiffel,50
+gpl-3.0,RobotFramework,49
+gpl-3.0,NetLogo,49
+gpl-3.0,Terra,46
+gpl-3.0,Oz,46
+gpl-3.0,Stan,46
+gpl-3.0,Visual Basic .NET,44
+gpl-3.0,Delphi,44
+gpl-3.0,Gosu,44
+gpl-3.0,PureBasic,44
+gpl-3.0,LabVIEW,44
+gpl-3.0,Io,44
+gpl-3.0,SWIG,43
+gpl-3.0,MAXScript,42
+gpl-3.0,Objective-J,42
+gpl-3.0,Modelica,42
+gpl-3.0,BlitzBasic,41
+gpl-3.0,VBScript,41
+gpl-3.0,Mask,40
+gpl-3.0,LSL,38
+gpl-3.0,VBA,38
+gpl-3.0,SRecode Template,38
+gpl-3.0,Clean,37
+gpl-3.0,Smali,35
+gpl-3.0,Metal,35
+gpl-3.0,Liquid,35
+gpl-3.0,Clarion,35
+gpl-3.0,WebAssembly,34
+gpl-3.0,VCL,34
+gpl-3.0,Vim Snippet,34
+gpl-3.0,G-code,33
+gpl-3.0,ABAP,33
+gpl-3.0,Nim,33
+gpl-3.0,Crystal,32
+gpl-3.0,Starlark,31
+gpl-3.0,XProc,31
+gpl-3.0,SMT,30
+gpl-3.0,RPC,30
+gpl-3.0,CartoCSS,29
+gpl-3.0,Ragel,28
+gpl-3.0,PureScript,28
+gpl-3.0,Agda,27
+gpl-3.0,NCL,27
+gpl-3.0,DM,27
+gpl-3.0,Volt,25
+gpl-3.0,Lasso,25
+gpl-3.0,MoonScript,25
+gpl-3.0,Jasmin,25
+gpl-3.0,Propeller Spin,23
+gpl-3.0,Pike,23
+gpl-3.0,Ren'Py,22
+gpl-3.0,RAML,22
+gpl-3.0,JSONiq,22
+gpl-3.0,Csound,22
+gpl-3.0,Arc,21
+gpl-3.0,Rascal,21
+gpl-3.0,LOLCODE,21
+gpl-3.0,Nextflow,20
+gpl-3.0,Frege,20
+gpl-3.0,Boo,20
+gpl-3.0,Idris,19
+gpl-3.0,Alloy,19
+gpl-3.0,1C Enterprise,19
+gpl-3.0,Cool,18
+gpl-3.0,Nimrod,18
+gpl-3.0,J,18
+gpl-3.0,PigLatin,18
+gpl-3.0,Component Pascal,17
+gpl-3.0,Nu,16
+gpl-3.0,Red,15
+gpl-3.0,Csound Document,15
+gpl-3.0,Papyrus,15
+gpl-3.0,Isabelle,14
+gpl-3.0,Augeas,14
+gpl-3.0,q,14
+gpl-3.0,Parrot,14
+gpl-3.0,Nemerle,14
+gpl-3.0,Jsonnet,13
+gpl-3.0,Common Workflow Language,13
+gpl-3.0,Csound Score,13
+gpl-3.0,Cirru,13
+gpl-3.0,KiCad Layout,12
+gpl-3.0,ChucK,12
+gpl-3.0,mupad,12
+gpl-3.0,Turing,12
+gpl-3.0,Grammatical Framework,11
+gpl-3.0,MQL5,10
+gpl-3.0,ATS,10
+gpl-3.0,GAMS,10
+gpl-3.0,SmPL,10
+gpl-3.0,NetLinx,9
+gpl-3.0,HyPhy,9
+gpl-3.0,Inform 7,9
+gpl-3.0,PicoLisp,8
+gpl-3.0,IGOR Pro,8
+gpl-3.0,Solidity,8
+gpl-3.0,Click,8
+gpl-3.0,mIRC Script,8
+gpl-3.0,V,8
+gpl-3.0,Dylan,8
+gpl-3.0,REXX,8
+gpl-3.0,Bro,8
+gpl-3.0,MQL4,8
+gpl-3.0,Grace,7
+gpl-3.0,Slice,7
+gpl-3.0,Logtalk,7
+gpl-3.0,YARA,7
+gpl-3.0,Pan,6
+gpl-3.0,Ceylon,6
+gpl-3.0,Monkey,6
+gpl-3.0,F*,6
+gpl-3.0,Cycript,6
+gpl-3.0,APL,6
+gpl-3.0,Lean,6
+gpl-3.0,Hy,6
+gpl-3.0,Asymptote,6
+gpl-3.0,BlitzMax,6
+gpl-3.0,HiveQL,6
+gpl-3.0,CWeb,5
+gpl-3.0,Factor,5
+gpl-3.0,Xojo,5
+gpl-3.0,Mirah,5
+gpl-3.0,Opa,5
+gpl-3.0,Ox,5
+gpl-3.0,ZenScript,5
+gpl-3.0,Brightscript,5
+gpl-3.0,Oxygene,5
+gpl-3.0,NASL,5
+gpl-3.0,Ioke,5
+gpl-3.0,Chapel,4
+gpl-3.0,Zimpl,4
+gpl-3.0,Genshi,4
+gpl-3.0,ooc,4
+gpl-3.0,Glyph,4
+gpl-3.0,Faust,4
+gpl-3.0,Graphviz (DOT),4
+gpl-3.0,Pony,4
+gpl-3.0,TLA,4
+gpl-3.0,P4,4
+gpl-3.0,Zephir,3
+gpl-3.0,Reason,3
+gpl-3.0,Moocode,3
+gpl-3.0,X10,3
+gpl-3.0,Zeek,3
+gpl-3.0,Modula-3,3
+gpl-3.0,Pep8,3
+gpl-3.0,Redcode,3
+gpl-3.0,Bluespec,3
+gpl-3.0,Filebench WML,2
+gpl-3.0,Self,2
+gpl-3.0,Shen,2
+gpl-3.0,Tea,2
+gpl-3.0,wdl,2
+gpl-3.0,Kit,2
+gpl-3.0,Harbour,2
+gpl-3.0,Dogescript,2
+gpl-3.0,DataWeave,2
+gpl-3.0,JFlex,2
+gpl-3.0,Nearley,1
+gpl-3.0,Dhall,1
+gpl-3.0,Wollok,1
+gpl-3.0,HolyC,1
+gpl-3.0,LFE,1
+gpl-3.0,TXL,1
+gpl-3.0,PowerBuilder,1
+gpl-3.0,RUNOFF,1
+gpl-3.0,Charity,1
+gpl-3.0,Fantom,1
+gpl-3.0,EQ,1
+gpl-3.0,Org,1
+gpl-3.0,Zig,1
+gpl-3.0,Befunge,1
+gpl-3.0,GAML,1
+gpl-3.0,ECL,1
+gpl-3.0,KRL,1
+gpl-3.0,Ecl,1
+gpl-3.0,TI Program,1
+gpl-3.0,Rouge,1
+gpl-3.0,DCPU-16 ASM,1
+gpl-2.0,Shell,98469
+gpl-2.0,JavaScript,92029
+gpl-2.0,CSS,79412
+gpl-2.0,Python,74592
+gpl-2.0,C,70292
+gpl-2.0,PHP,69717
+gpl-2.0,C++,62709
+gpl-2.0,HTML,56242
+gpl-2.0,Makefile,41840
+gpl-2.0,Perl,39100
+gpl-2.0,Java,31742
+gpl-2.0,Objective-C,31052
+gpl-2.0,Assembly,23267
+gpl-2.0,Ruby,19698
+gpl-2.0,ApacheConf,15384
+gpl-2.0,Awk,14733
+gpl-2.0,ASP,14070
+gpl-2.0,Scilab,12169
+gpl-2.0,C#,11575
+gpl-2.0,Groff,10457
+gpl-2.0,XSLT,10322
+gpl-2.0,Batchfile,10058
+gpl-2.0,UnrealScript,9478
+gpl-2.0,CMake,8785
+gpl-2.0,TeX,8598
+gpl-2.0,Yacc,8011
+gpl-2.0,VimL,7994
+gpl-2.0,Lua,7864
+gpl-2.0,Lex,7501
+gpl-2.0,SourcePawn,6874
+gpl-2.0,R,6514
+gpl-2.0,M4,5489
+gpl-2.0,Scala,4646
+gpl-2.0,Clojure,3772
+gpl-2.0,Erlang,3576
+gpl-2.0,Go,3543
+gpl-2.0,Prolog,3541
+gpl-2.0,Emacs Lisp,3303
+gpl-2.0,Objective-C++,3301
+gpl-2.0,CoffeeScript,3227
+gpl-2.0,QMake,3125
+gpl-2.0,Smarty,3113
+gpl-2.0,Arduino,3054
+gpl-2.0,Matlab,2974
+gpl-2.0,SuperCollider,2918
+gpl-2.0,Bison,2850
+gpl-2.0,Roff,2767
+gpl-2.0,DOT,2508
+gpl-2.0,Tcl,2494
+gpl-2.0,Pascal,2209
+gpl-2.0,PLpgSQL,2109
+gpl-2.0,NSIS,2059
+gpl-2.0,Groovy,2053
+gpl-2.0,Visual Basic,2013
+gpl-2.0,D,1932
+gpl-2.0,PowerShell,1770
+gpl-2.0,Haskell,1764
+gpl-2.0,GLSL,1714
+gpl-2.0,Racket,1439
+gpl-2.0,GDB,1435
+gpl-2.0,Perl6,1379
+gpl-2.0,Logos,1285
+gpl-2.0,Dockerfile,1271
+gpl-2.0,SQLPL,1182
+gpl-2.0,ActionScript,1177
+gpl-2.0,Scheme,1163
+gpl-2.0,PLSQL,1155
+gpl-2.0,FORTRAN,1144
+gpl-2.0,TypeScript,1098
+gpl-2.0,Vim script,1005
+gpl-2.0,XML,1003
+gpl-2.0,Puppet,987
+gpl-2.0,Processing,976
+gpl-2.0,Ada,923
+gpl-2.0,QML,919
+gpl-2.0,OCaml,917
+gpl-2.0,M,904
+gpl-2.0,Swift,832
+gpl-2.0,Gnuplot,829
+gpl-2.0,Inno Setup,796
+gpl-2.0,IDL,794
+gpl-2.0,Common Lisp,777
+gpl-2.0,Forth,776
+gpl-2.0,GAP,726
+gpl-2.0,DIGITAL Command Language,705
+gpl-2.0,Jupyter Notebook,694
+gpl-2.0,Cucumber,681
+gpl-2.0,Rust,647
+gpl-2.0,TSQL,636
+gpl-2.0,Module Management System,617
+gpl-2.0,Haxe,612
+gpl-2.0,Verilog,599
+gpl-2.0,Vala,568
+gpl-2.0,Smalltalk,549
+gpl-2.0,PostScript,537
+gpl-2.0,SAS,534
+gpl-2.0,Nginx,528
+gpl-2.0,XS,513
+gpl-2.0,DTrace,505
+gpl-2.0,Protocol Buffer,490
+gpl-2.0,AppleScript,487
+gpl-2.0,Mathematica,485
+gpl-2.0,Perl 6,476
+gpl-2.0,Elixir,474
+gpl-2.0,VHDL,472
+gpl-2.0,CLIPS,469
+gpl-2.0,Rebol,464
+gpl-2.0,Hack,453
+gpl-2.0,Max,446
+gpl-2.0,LiveScript,444
+gpl-2.0,Cuda,441
+gpl-2.0,Standard ML,431
+gpl-2.0,Fortran,428
+gpl-2.0,ColdFusion,388
+gpl-2.0,Gettext Catalog,386
+gpl-2.0,OpenEdge ABL,384
+gpl-2.0,Pure Data,382
+gpl-2.0,Modelica,357
+gpl-2.0,Eagle,353
+gpl-2.0,Gherkin,333
+gpl-2.0,F#,326
+gpl-2.0,Arc,323
+gpl-2.0,Eiffel,309
+gpl-2.0,XC,291
+gpl-2.0,OpenSCAD,291
+gpl-2.0,MATLAB,281
+gpl-2.0,Brainfuck,265
+gpl-2.0,BitBake,258
+gpl-2.0,Handlebars,251
+gpl-2.0,LLVM,246
+gpl-2.0,Meson,244
+gpl-2.0,Diff,227
+gpl-2.0,Mako,218
+gpl-2.0,sed,212
+gpl-2.0,SystemVerilog,211
+gpl-2.0,SQL,201
+gpl-2.0,FLUX,200
+gpl-2.0,VCL,192
+gpl-2.0,Julia,191
+gpl-2.0,POV-Ray SDL,191
+gpl-2.0,COBOL,190
+gpl-2.0,AutoHotkey,189
+gpl-2.0,AGS Script,185
+gpl-2.0,HLSL,180
+gpl-2.0,SQF,175
+gpl-2.0,Kotlin,166
+gpl-2.0,Vue,165
+gpl-2.0,Stata,164
+gpl-2.0,Clarion,160
+gpl-2.0,BlitzBasic,159
+gpl-2.0,FreeMarker,155
+gpl-2.0,KiCad,154
+gpl-2.0,Nemerle,152
+gpl-2.0,PAWN,134
+gpl-2.0,E,133
+gpl-2.0,Lasso,133
+gpl-2.0,Nix,129
+gpl-2.0,AutoIt,128
+gpl-2.0,NewLisp,127
+gpl-2.0,Mask,126
+gpl-2.0,Dart,124
+gpl-2.0,Rich Text Format,121
+gpl-2.0,Coq,116
+gpl-2.0,GDScript,115
+gpl-2.0,ANTLR,110
+gpl-2.0,xBase,108
+gpl-2.0,Delphi,107
+gpl-2.0,Click,105
+gpl-2.0,Turing,100
+gpl-2.0,Mercury,100
+gpl-2.0,XQuery,99
+gpl-2.0,Io,98
+gpl-2.0,Nu,92
+gpl-2.0,eC,91
+gpl-2.0,Slash,88
+gpl-2.0,Limbo,84
+gpl-2.0,Augeas,80
+gpl-2.0,Raku,78
+gpl-2.0,Pan,76
+gpl-2.0,Ragel in Ruby Host,76
+gpl-2.0,AspectJ,75
+gpl-2.0,Squirrel,74
+gpl-2.0,Clean,73
+gpl-2.0,Thrift,69
+gpl-2.0,LilyPond,67
+gpl-2.0,Game Maker Language,65
+gpl-2.0,SaltStack,63
+gpl-2.0,CartoCSS,63
+gpl-2.0,AngelScript,61
+gpl-2.0,Elm,61
+gpl-2.0,EmberScript,61
+gpl-2.0,PicoLisp,59
+gpl-2.0,VBScript,57
+gpl-2.0,Pawn,56
+gpl-2.0,PureBasic,56
+gpl-2.0,AMPL,55
+gpl-2.0,LSL,54
+gpl-2.0,nesC,53
+gpl-2.0,Objective-J,53
+gpl-2.0,Gosu,52
+gpl-2.0,Component Pascal,51
+gpl-2.0,Liquid,51
+gpl-2.0,SWIG,50
+gpl-2.0,GCC Machine Description,50
+gpl-2.0,Web Ontology Language,50
+gpl-2.0,HCL,50
+gpl-2.0,Frege,47
+gpl-2.0,API Blueprint,45
+gpl-2.0,ABAP,45
+gpl-2.0,RenderScript,45
+gpl-2.0,Terra,44
+gpl-2.0,JSONiq,44
+gpl-2.0,SmPL,44
+gpl-2.0,Zephir,42
+gpl-2.0,ShaderLab,40
+gpl-2.0,VBA,37
+gpl-2.0,Apex,36
+gpl-2.0,RobotFramework,34
+gpl-2.0,Cirru,34
+gpl-2.0,Isabelle,32
+gpl-2.0,Graphviz (DOT),32
+gpl-2.0,RPC,31
+gpl-2.0,PigLatin,31
+gpl-2.0,RAML,29
+gpl-2.0,Boo,28
+gpl-2.0,Pike,28
+gpl-2.0,Volt,28
+gpl-2.0,MAXScript,28
+gpl-2.0,Jasmin,27
+gpl-2.0,Redcode,27
+gpl-2.0,YASnippet,26
+gpl-2.0,Ragel,26
+gpl-2.0,Genshi,25
+gpl-2.0,Xtend,25
+gpl-2.0,Lean,23
+gpl-2.0,Kit,23
+gpl-2.0,IGOR Pro,20
+gpl-2.0,LabVIEW,20
+gpl-2.0,NetLogo,19
+gpl-2.0,SRecode Template,19
+gpl-2.0,ChucK,19
+gpl-2.0,Red,18
+gpl-2.0,Nimrod,18
+gpl-2.0,CWeb,16
+gpl-2.0,DM,16
+gpl-2.0,Bro,15
+gpl-2.0,TXL,15
+gpl-2.0,Csound,15
+gpl-2.0,Rascal,14
+gpl-2.0,SMT,14
+gpl-2.0,Visual Basic .NET,13
+gpl-2.0,MoonScript,13
+gpl-2.0,mIRC Script,13
+gpl-2.0,Parrot,13
+gpl-2.0,G-code,13
+gpl-2.0,Crystal,13
+gpl-2.0,J,12
+gpl-2.0,Self,12
+gpl-2.0,WebAssembly,12
+gpl-2.0,Alloy,12
+gpl-2.0,Stan,12
+gpl-2.0,Metal,12
+gpl-2.0,REXX,12
+gpl-2.0,LOLCODE,11
+gpl-2.0,Harbour,11
+gpl-2.0,Myghty,11
+gpl-2.0,Fancy,11
+gpl-2.0,Starlark,11
+gpl-2.0,KiCad Layout,10
+gpl-2.0,Vim Snippet,10
+gpl-2.0,1C Enterprise,10
+gpl-2.0,Fantom,10
+gpl-2.0,mupad,9
+gpl-2.0,ooc,9
+gpl-2.0,Brightscript,9
+gpl-2.0,APL,9
+gpl-2.0,Csound Document,9
+gpl-2.0,Chapel,9
+gpl-2.0,Smali,8
+gpl-2.0,NCL,8
+gpl-2.0,Papyrus,8
+gpl-2.0,Modula-2,8
+gpl-2.0,Cycript,8
+gpl-2.0,Propeller Spin,8
+gpl-2.0,Oxygene,8
+gpl-2.0,Agda,8
+gpl-2.0,GAMS,8
+gpl-2.0,JFlex,7
+gpl-2.0,PureScript,7
+gpl-2.0,Opa,7
+gpl-2.0,Hy,7
+gpl-2.0,Nim,7
+gpl-2.0,Dylan,7
+gpl-2.0,Logtalk,7
+gpl-2.0,BlitzMax,6
+gpl-2.0,Faust,6
+gpl-2.0,Cap'n Proto,6
+gpl-2.0,YARA,6
+gpl-2.0,Factor,6
+gpl-2.0,Ceylon,6
+gpl-2.0,Cool,5
+gpl-2.0,Csound Score,5
+gpl-2.0,Inform 7,5
+gpl-2.0,F*,5
+gpl-2.0,Idris,5
+gpl-2.0,RUNOFF,4
+gpl-2.0,Slice,4
+gpl-2.0,Modula-3,4
+gpl-2.0,Grammatical Framework,4
+gpl-2.0,XProc,4
+gpl-2.0,Oz,4
+gpl-2.0,Twig,3
+gpl-2.0,KRL,3
+gpl-2.0,MQL5,3
+gpl-2.0,Jsonnet,3
+gpl-2.0,q,3
+gpl-2.0,Grace,3
+gpl-2.0,HyPhy,3
+gpl-2.0,X10,3
+gpl-2.0,Zimpl,3
+gpl-2.0,Ox,3
+gpl-2.0,Bluespec,3
+gpl-2.0,Filebench WML,3
+gpl-2.0,ATS,2
+gpl-2.0,SCSS,2
+gpl-2.0,MQL4,2
+gpl-2.0,TLA,2
+gpl-2.0,Monkey,2
+gpl-2.0,Jolie,2
+gpl-2.0,Odin,2
+gpl-2.0,Rouge,2
+gpl-2.0,Nextflow,2
+gpl-2.0,MTML,2
+gpl-2.0,Glyph,1
+gpl-2.0,Uno,1
+gpl-2.0,Asymptote,1
+gpl-2.0,WebIDL,1
+gpl-2.0,Mirah,1
+gpl-2.0,Pony,1
+gpl-2.0,DCPU-16 ASM,1
+gpl-2.0,UrWeb,1
+gpl-2.0,HolyC,1
+gpl-2.0,Pep8,1
+gpl-2.0,DataWeave,1
+gpl-2.0,Open Policy Agent,1
+gpl-2.0,ObjectScript,1
+gpl-2.0,Ren'Py,1
+gpl-2.0,Nit,1
+gpl-2.0,PowerBuilder,1
+gpl-2.0,Dhall,1
+gpl-2.0,LFE,1
+gpl-2.0,Reason,1
+gpl-2.0,V,1
+gpl-2.0,Solidity,1
+gpl-2.0,Genie,1
+epl-1.0,Clojure,13417
+epl-1.0,Java,5218
+epl-1.0,CSS,3398
+epl-1.0,HTML,3366
+epl-1.0,Shell,2996
+epl-1.0,JavaScript,2805
+epl-1.0,Python,1085
+epl-1.0,C,771
+epl-1.0,Batchfile,679
+epl-1.0,C++,531
+epl-1.0,Makefile,529
+epl-1.0,Ruby,516
+epl-1.0,XSLT,500
+epl-1.0,Perl,407
+epl-1.0,Xtend,394
+epl-1.0,Groovy,285
+epl-1.0,Objective-C,254
+epl-1.0,PHP,232
+epl-1.0,C#,209
+epl-1.0,Arduino,180
+epl-1.0,GAP,143
+epl-1.0,Go,126
+epl-1.0,Emacs Lisp,110
+epl-1.0,Dockerfile,107
+epl-1.0,TeX,103
+epl-1.0,Scala,93
+epl-1.0,ANTLR,77
+epl-1.0,CoffeeScript,77
+epl-1.0,Awk,75
+epl-1.0,Groff,64
+epl-1.0,CMake,62
+epl-1.0,Lua,62
+epl-1.0,D,54
+epl-1.0,TypeScript,54
+epl-1.0,PLpgSQL,50
+epl-1.0,Protocol Buffer,46
+epl-1.0,FreeMarker,45
+epl-1.0,Puppet,44
+epl-1.0,ApacheConf,43
+epl-1.0,Prolog,43
+epl-1.0,Swift,43
+epl-1.0,R,42
+epl-1.0,Assembly,40
+epl-1.0,SQLPL,40
+epl-1.0,Visual Basic,40
+epl-1.0,M4,40
+epl-1.0,Haskell,39
+epl-1.0,PowerShell,38
+epl-1.0,Roff,36
+epl-1.0,Pascal,32
+epl-1.0,Lex,32
+epl-1.0,Common Lisp,31
+epl-1.0,GLSL,30
+epl-1.0,Erlang,30
+epl-1.0,PLSQL,29
+epl-1.0,Racket,29
+epl-1.0,TSQL,28
+epl-1.0,Tcl,25
+epl-1.0,PostScript,25
+epl-1.0,NSIS,25
+epl-1.0,XML,25
+epl-1.0,Scheme,24
+epl-1.0,Smarty,24
+epl-1.0,ColdFusion,24
+epl-1.0,Nginx,22
+epl-1.0,Matlab,21
+epl-1.0,Gherkin,20
+epl-1.0,Yacc,18
+epl-1.0,ASP,17
+epl-1.0,Kotlin,16
+epl-1.0,Cirru,15
+epl-1.0,QMake,15
+epl-1.0,Rascal,15
+epl-1.0,Gnuplot,15
+epl-1.0,Logos,14
+epl-1.0,AspectJ,13
+epl-1.0,AMPL,13
+epl-1.0,Processing,13
+epl-1.0,Jupyter Notebook,12
+epl-1.0,Cucumber,12
+epl-1.0,Perl6,12
+epl-1.0,Nix,11
+epl-1.0,Objective-C++,11
+epl-1.0,Thrift,11
+epl-1.0,F#,11
+epl-1.0,Apex,10
+epl-1.0,IDL,10
+epl-1.0,Web Ontology Language,10
+epl-1.0,Julia,9
+epl-1.0,XQuery,9
+epl-1.0,VimL,9
+epl-1.0,Elixir,9
+epl-1.0,FORTRAN,9
+epl-1.0,DOT,8
+epl-1.0,HCL,8
+epl-1.0,Hack,8
+epl-1.0,AppleScript,8
+epl-1.0,Rust,8
+epl-1.0,OpenEdge ABL,7
+epl-1.0,M,7
+epl-1.0,Mathematica,7
+epl-1.0,Golo,7
+epl-1.0,ActionScript,7
+epl-1.0,Perl 6,7
+epl-1.0,Nemerle,6
+epl-1.0,SuperCollider,6
+epl-1.0,Vim script,6
+epl-1.0,Standard ML,6
+epl-1.0,NewLisp,6
+epl-1.0,SystemVerilog,6
+epl-1.0,Cuda,6
+epl-1.0,Fancy,6
+epl-1.0,Smalltalk,6
+epl-1.0,Forth,6
+epl-1.0,QML,5
+epl-1.0,API Blueprint,5
+epl-1.0,OCaml,5
+epl-1.0,Rebol,5
+epl-1.0,Elm,5
+epl-1.0,MATLAB,5
+epl-1.0,Scilab,5
+epl-1.0,HLSL,4
+epl-1.0,Haxe,4
+epl-1.0,Frege,4
+epl-1.0,Pure Data,4
+epl-1.0,Brainfuck,4
+epl-1.0,Jasmin,4
+epl-1.0,Max,4
+epl-1.0,OpenSCAD,4
+epl-1.0,Dart,4
+epl-1.0,Alloy,4
+epl-1.0,LOLCODE,3
+epl-1.0,Verilog,3
+epl-1.0,XS,3
+epl-1.0,Game Maker Language,3
+epl-1.0,MAXScript,3
+epl-1.0,Objective-J,3
+epl-1.0,DM,3
+epl-1.0,Ceylon,3
+epl-1.0,SourcePawn,3
+epl-1.0,Slash,3
+epl-1.0,X10,3
+epl-1.0,SaltStack,3
+epl-1.0,JFlex,3
+epl-1.0,Ragel in Ruby Host,3
+epl-1.0,Bison,3
+epl-1.0,KiCad,3
+epl-1.0,Rich Text Format,3
+epl-1.0,Vue,3
+epl-1.0,Delphi,3
+epl-1.0,CartoCSS,2
+epl-1.0,FLUX,2
+epl-1.0,Stata,2
+epl-1.0,SMT,2
+epl-1.0,VHDL,2
+epl-1.0,SQL,2
+epl-1.0,Inno Setup,2
+epl-1.0,Raku,2
+epl-1.0,Handlebars,2
+epl-1.0,RenderScript,2
+epl-1.0,Papyrus,2
+epl-1.0,Eagle,2
+epl-1.0,Ada,2
+epl-1.0,Fortran,2
+epl-1.0,BitBake,2
+epl-1.0,ECL,2
+epl-1.0,E,2
+epl-1.0,RAML,2
+epl-1.0,AutoIt,2
+epl-1.0,Fantom,1
+epl-1.0,DTrace,1
+epl-1.0,Limbo,1
+epl-1.0,ShaderLab,1
+epl-1.0,Red,1
+epl-1.0,RobotFramework,1
+epl-1.0,VBA,1
+epl-1.0,PureBasic,1
+epl-1.0,Io,1
+epl-1.0,Diff,1
+epl-1.0,Mercury,1
+epl-1.0,Ragel,1
+epl-1.0,YASnippet,1
+epl-1.0,AGS Script,1
+epl-1.0,DCPU-16 ASM,1
+epl-1.0,POV-Ray SDL,1
+epl-1.0,DIGITAL Command Language,1
+epl-1.0,ABAP,1
+epl-1.0,Eiffel,1
+epl-1.0,SAS,1
+epl-1.0,Csound Document,1
+epl-1.0,Uno,1
+epl-1.0,UnrealScript,1
+epl-1.0,Mask,1
+epl-1.0,Self,1
+epl-1.0,J,1
+epl-1.0,IGOR Pro,1
+epl-1.0,GCC Machine Description,1
+epl-1.0,NetLogo,1
+epl-1.0,Vim Snippet,1
+epl-1.0,AutoHotkey,1
+epl-1.0,Filebench WML,1
+epl-1.0,Boo,1
+cc0-1.0,HTML,6895
+cc0-1.0,JavaScript,6052
+cc0-1.0,CSS,5943
+cc0-1.0,Python,3830
+cc0-1.0,Shell,2950
+cc0-1.0,Ruby,1629
+cc0-1.0,Java,1293
+cc0-1.0,Makefile,1180
+cc0-1.0,C,976
+cc0-1.0,PHP,918
+cc0-1.0,C++,902
+cc0-1.0,TeX,722
+cc0-1.0,C#,629
+cc0-1.0,R,546
+cc0-1.0,Objective-C,368
+cc0-1.0,Perl,342
+cc0-1.0,Batchfile,301
+cc0-1.0,ApacheConf,251
+cc0-1.0,Go,230
+cc0-1.0,Arduino,229
+cc0-1.0,Scala,212
+cc0-1.0,Jupyter Notebook,209
+cc0-1.0,CoffeeScript,207
+cc0-1.0,Lua,163
+cc0-1.0,Swift,161
+cc0-1.0,TypeScript,140
+cc0-1.0,Haskell,114
+cc0-1.0,Assembly,113
+cc0-1.0,Matlab,110
+cc0-1.0,CMake,107
+cc0-1.0,VimL,102
+cc0-1.0,ASP,93
+cc0-1.0,XSLT,92
+cc0-1.0,GLSL,92
+cc0-1.0,QMake,87
+cc0-1.0,Processing,84
+cc0-1.0,PowerShell,83
+cc0-1.0,Rust,82
+cc0-1.0,OCaml,80
+cc0-1.0,Groovy,77
+cc0-1.0,Dockerfile,57
+cc0-1.0,Clojure,56
+cc0-1.0,Vim script,55
+cc0-1.0,Emacs Lisp,54
+cc0-1.0,Groff,51
+cc0-1.0,Cucumber,47
+cc0-1.0,OpenSCAD,45
+cc0-1.0,Web Ontology Language,45
+cc0-1.0,Eagle,42
+cc0-1.0,Nginx,41
+cc0-1.0,Visual Basic,38
+cc0-1.0,M,36
+cc0-1.0,Smarty,36
+cc0-1.0,PostScript,35
+cc0-1.0,Scheme,35
+cc0-1.0,Awk,30
+cc0-1.0,Objective-C++,29
+cc0-1.0,Prolog,28
+cc0-1.0,KiCad,27
+cc0-1.0,PLpgSQL,25
+cc0-1.0,F#,24
+cc0-1.0,Kotlin,24
+cc0-1.0,IDL,24
+cc0-1.0,Julia,24
+cc0-1.0,ActionScript,24
+cc0-1.0,Vue,24
+cc0-1.0,Perl6,24
+cc0-1.0,Common Lisp,22
+cc0-1.0,Gnuplot,21
+cc0-1.0,Haxe,21
+cc0-1.0,Mathematica,21
+cc0-1.0,LiveScript,21
+cc0-1.0,Puppet,21
+cc0-1.0,Pascal,20
+cc0-1.0,Dart,20
+cc0-1.0,D,19
+cc0-1.0,Roff,19
+cc0-1.0,Erlang,18
+cc0-1.0,Rebol,18
+cc0-1.0,AppleScript,17
+cc0-1.0,PLSQL,17
+cc0-1.0,Racket,17
+cc0-1.0,Handlebars,17
+cc0-1.0,Elm,16
+cc0-1.0,TSQL,16
+cc0-1.0,Liquid,16
+cc0-1.0,Tcl,15
+cc0-1.0,MATLAB,15
+cc0-1.0,GCC Machine Description,14
+cc0-1.0,SQLPL,14
+cc0-1.0,FORTRAN,14
+cc0-1.0,M4,14
+cc0-1.0,Lex,14
+cc0-1.0,XML,13
+cc0-1.0,Pure Data,13
+cc0-1.0,Fortran,13
+cc0-1.0,Elixir,13
+cc0-1.0,XQuery,13
+cc0-1.0,Hack,12
+cc0-1.0,Scilab,12
+cc0-1.0,Smalltalk,12
+cc0-1.0,Protocol Buffer,12
+cc0-1.0,QML,12
+cc0-1.0,NSIS,12
+cc0-1.0,AutoHotkey,11
+cc0-1.0,GDScript,10
+cc0-1.0,Stan,10
+cc0-1.0,Yacc,10
+cc0-1.0,SuperCollider,10
+cc0-1.0,LilyPond,9
+cc0-1.0,Ada,9
+cc0-1.0,Nix,9
+cc0-1.0,AGS Script,9
+cc0-1.0,Vala,9
+cc0-1.0,Lean,9
+cc0-1.0,Standard ML,9
+cc0-1.0,SAS,9
+cc0-1.0,Mercury,8
+cc0-1.0,CartoCSS,8
+cc0-1.0,Stata,8
+cc0-1.0,FreeMarker,8
+cc0-1.0,Cuda,8
+cc0-1.0,Mako,8
+cc0-1.0,Coq,7
+cc0-1.0,HCL,7
+cc0-1.0,Io,7
+cc0-1.0,VHDL,7
+cc0-1.0,Perl 6,7
+cc0-1.0,Forth,6
+cc0-1.0,Hy,6
+cc0-1.0,Verilog,6
+cc0-1.0,xBase,6
+cc0-1.0,Logos,6
+cc0-1.0,DIGITAL Command Language,5
+cc0-1.0,Mask,5
+cc0-1.0,GAP,5
+cc0-1.0,SQF,5
+cc0-1.0,Crystal,5
+cc0-1.0,Rich Text Format,5
+cc0-1.0,JSONiq,4
+cc0-1.0,sed,4
+cc0-1.0,Inform 7,4
+cc0-1.0,NetLogo,4
+cc0-1.0,Game Maker Language,4
+cc0-1.0,Meson,4
+cc0-1.0,ABAP,4
+cc0-1.0,HLSL,4
+cc0-1.0,RobotFramework,4
+cc0-1.0,Gherkin,4
+cc0-1.0,ANTLR,4
+cc0-1.0,XS,4
+cc0-1.0,API Blueprint,4
+cc0-1.0,Xtend,4
+cc0-1.0,SourcePawn,4
+cc0-1.0,Max,4
+cc0-1.0,NewLisp,4
+cc0-1.0,OpenEdge ABL,4
+cc0-1.0,RAML,3
+cc0-1.0,AngelScript,3
+cc0-1.0,SaltStack,3
+cc0-1.0,COBOL,3
+cc0-1.0,ColdFusion,3
+cc0-1.0,LSL,3
+cc0-1.0,PigLatin,3
+cc0-1.0,UnrealScript,3
+cc0-1.0,FLUX,3
+cc0-1.0,LOLCODE,3
+cc0-1.0,VCL,3
+cc0-1.0,AMPL,3
+cc0-1.0,Inno Setup,3
+cc0-1.0,ShaderLab,3
+cc0-1.0,Idris,3
+cc0-1.0,Agda,3
+cc0-1.0,Red,2
+cc0-1.0,Nim,2
+cc0-1.0,REXX,2
+cc0-1.0,Nimrod,2
+cc0-1.0,Cirru,2
+cc0-1.0,Eiffel,2
+cc0-1.0,DTrace,2
+cc0-1.0,RenderScript,2
+cc0-1.0,Brainfuck,2
+cc0-1.0,nesC,2
+cc0-1.0,Raku,2
+cc0-1.0,XProc,2
+cc0-1.0,PureScript,2
+cc0-1.0,Papyrus,1
+cc0-1.0,Chapel,1
+cc0-1.0,Visual Basic .NET,1
+cc0-1.0,Pony,1
+cc0-1.0,Thrift,1
+cc0-1.0,Gettext Catalog,1
+cc0-1.0,HyPhy,1
+cc0-1.0,Squirrel,1
+cc0-1.0,Modula-2,1
+cc0-1.0,Csound Document,1
+cc0-1.0,Brightscript,1
+cc0-1.0,MoonScript,1
+cc0-1.0,Kit,1
+cc0-1.0,TLA,1
+cc0-1.0,MQL4,1
+cc0-1.0,CLIPS,1
+cc0-1.0,wisp,1
+cc0-1.0,AspectJ,1
+cc0-1.0,PureBasic,1
+cc0-1.0,Cap'n Proto,1
+cc0-1.0,Apex,1
+cc0-1.0,Jasmin,1
+cc0-1.0,VBScript,1
+cc0-1.0,q,1
+cc0-1.0,Csound,1
+cc0-1.0,Csound Score,1
+cc0-1.0,Rascal,1
+cc0-1.0,YASnippet,1
+cc0-1.0,Slash,1
+cc0-1.0,Alloy,1
+cc0-1.0,DM,1
+cc0-1.0,WebAssembly,1
+cc0-1.0,Turing,1
+cc0-1.0,eC,1
+cc0-1.0,SQL,1
+cc0-1.0,Gosu,1
+cc0-1.0,Arc,1
+cc0-1.0,Grammatical Framework,1
+cc0-1.0,Lasso,1
+cc0-1.0,Modelica,1
+cc0-1.0,GDB,1
+cc0-1.0,LLVM,1
+cc0-1.0,VBA,1
+cc0-1.0,SystemVerilog,1
+cc0-1.0,AutoIt,1
+cc0-1.0,1C Enterprise,1
+cc0-1.0,Clarion,1
+cc0-1.0,Bison,1
+cc0-1.0,DOT,1
+bsd-3-clause,Python,44616
+bsd-3-clause,JavaScript,41964
+bsd-3-clause,Shell,40360
+bsd-3-clause,CSS,36227
+bsd-3-clause,HTML,30751
+bsd-3-clause,PHP,23106
+bsd-3-clause,C,22218
+bsd-3-clause,Makefile,20814
+bsd-3-clause,C++,20127
+bsd-3-clause,Ruby,13331
+bsd-3-clause,Java,12425
+bsd-3-clause,Haskell,11838
+bsd-3-clause,Batchfile,10769
+bsd-3-clause,Objective-C,8847
+bsd-3-clause,Go,7703
+bsd-3-clause,ApacheConf,6021
+bsd-3-clause,Perl,5770
+bsd-3-clause,CMake,5585
+bsd-3-clause,C#,4081
+bsd-3-clause,Assembly,3295
+bsd-3-clause,CoffeeScript,2532
+bsd-3-clause,Lua,2074
+bsd-3-clause,TeX,1956
+bsd-3-clause,Objective-C++,1949
+bsd-3-clause,Dart,1874
+bsd-3-clause,PowerShell,1816
+bsd-3-clause,XSLT,1741
+bsd-3-clause,Smarty,1569
+bsd-3-clause,Scala,1535
+bsd-3-clause,Matlab,1532
+bsd-3-clause,Groff,1512
+bsd-3-clause,TypeScript,1428
+bsd-3-clause,Protocol Buffer,1412
+bsd-3-clause,Erlang,1357
+bsd-3-clause,Emacs Lisp,1254
+bsd-3-clause,Tcl,1222
+bsd-3-clause,Swift,1181
+bsd-3-clause,Scheme,1158
+bsd-3-clause,R,1077
+bsd-3-clause,ASP,1076
+bsd-3-clause,Prolog,1034
+bsd-3-clause,Awk,1024
+bsd-3-clause,Jupyter Notebook,1011
+bsd-3-clause,Groovy,897
+bsd-3-clause,Yacc,891
+bsd-3-clause,M4,830
+bsd-3-clause,Dockerfile,806
+bsd-3-clause,Elm,781
+bsd-3-clause,VimL,765
+bsd-3-clause,AppleScript,741
+bsd-3-clause,QMake,731
+bsd-3-clause,GLSL,722
+bsd-3-clause,ActionScript,711
+bsd-3-clause,Rust,707
+bsd-3-clause,IDL,653
+bsd-3-clause,Nginx,640
+bsd-3-clause,PLpgSQL,634
+bsd-3-clause,Cuda,623
+bsd-3-clause,Pascal,619
+bsd-3-clause,Nix,613
+bsd-3-clause,OCaml,610
+bsd-3-clause,Logos,604
+bsd-3-clause,Visual Basic,591
+bsd-3-clause,Common Lisp,588
+bsd-3-clause,Clojure,533
+bsd-3-clause,D,532
+bsd-3-clause,Arduino,528
+bsd-3-clause,FORTRAN,510
+bsd-3-clause,Puppet,500
+bsd-3-clause,Lex,489
+bsd-3-clause,Roff,460
+bsd-3-clause,PLSQL,457
+bsd-3-clause,Cucumber,446
+bsd-3-clause,Perl6,413
+bsd-3-clause,M,364
+bsd-3-clause,QML,364
+bsd-3-clause,DTrace,354
+bsd-3-clause,Elixir,350
+bsd-3-clause,Fortran,314
+bsd-3-clause,Standard ML,279
+bsd-3-clause,Haxe,274
+bsd-3-clause,GAP,273
+bsd-3-clause,Verilog,264
+bsd-3-clause,NSIS,255
+bsd-3-clause,Racket,246
+bsd-3-clause,Gnuplot,234
+bsd-3-clause,Vim script,226
+bsd-3-clause,Julia,226
+bsd-3-clause,Inno Setup,221
+bsd-3-clause,ColdFusion,218
+bsd-3-clause,SQLPL,213
+bsd-3-clause,VHDL,211
+bsd-3-clause,Ada,198
+bsd-3-clause,Smalltalk,194
+bsd-3-clause,Forth,194
+bsd-3-clause,Handlebars,191
+bsd-3-clause,F#,189
+bsd-3-clause,Mako,185
+bsd-3-clause,MATLAB,179
+bsd-3-clause,Bison,174
+bsd-3-clause,XQuery,174
+bsd-3-clause,TSQL,172
+bsd-3-clause,Vala,171
+bsd-3-clause,LiveScript,168
+bsd-3-clause,nesC,168
+bsd-3-clause,Thrift,167
+bsd-3-clause,Hack,164
+bsd-3-clause,ANTLR,162
+bsd-3-clause,Eiffel,160
+bsd-3-clause,PostScript,156
+bsd-3-clause,Kotlin,154
+bsd-3-clause,Apex,153
+bsd-3-clause,COBOL,152
+bsd-3-clause,AutoHotkey,150
+bsd-3-clause,DIGITAL Command Language,147
+bsd-3-clause,Liquid,143
+bsd-3-clause,Mathematica,141
+bsd-3-clause,OpenSCAD,141
+bsd-3-clause,Io,137
+bsd-3-clause,LSL,136
+bsd-3-clause,ABAP,131
+bsd-3-clause,Processing,131
+bsd-3-clause,JSONiq,131
+bsd-3-clause,Gherkin,128
+bsd-3-clause,Rebol,128
+bsd-3-clause,Volt,123
+bsd-3-clause,PureScript,119
+bsd-3-clause,Cirru,117
+bsd-3-clause,Mask,117
+bsd-3-clause,SourcePawn,111
+bsd-3-clause,XML,111
+bsd-3-clause,OpenEdge ABL,106
+bsd-3-clause,Ragel in Ruby Host,102
+bsd-3-clause,CartoCSS,102
+bsd-3-clause,DOT,99
+bsd-3-clause,Lean,99
+bsd-3-clause,Coq,96
+bsd-3-clause,LLVM,95
+bsd-3-clause,Idris,93
+bsd-3-clause,MoonScript,92
+bsd-3-clause,NewLisp,91
+bsd-3-clause,Vue,85
+bsd-3-clause,Crystal,84
+bsd-3-clause,KiCad,78
+bsd-3-clause,Stata,77
+bsd-3-clause,SystemVerilog,74
+bsd-3-clause,Diff,72
+bsd-3-clause,Mercury,72
+bsd-3-clause,AGS Script,67
+bsd-3-clause,Gettext Catalog,67
+bsd-3-clause,Nimrod,67
+bsd-3-clause,Slash,65
+bsd-3-clause,Eagle,62
+bsd-3-clause,GDB,61
+bsd-3-clause,Game Maker Language,61
+bsd-3-clause,SuperCollider,60
+bsd-3-clause,FreeMarker,59
+bsd-3-clause,Brainfuck,59
+bsd-3-clause,XS,58
+bsd-3-clause,Perl 6,57
+bsd-3-clause,PureBasic,56
+bsd-3-clause,Scilab,55
+bsd-3-clause,Meson,54
+bsd-3-clause,UrWeb,54
+bsd-3-clause,GCC Machine Description,53
+bsd-3-clause,Nim,52
+bsd-3-clause,Max,51
+bsd-3-clause,SaltStack,51
+bsd-3-clause,SQL,50
+bsd-3-clause,SAS,48
+bsd-3-clause,CLIPS,44
+bsd-3-clause,Pure Data,42
+bsd-3-clause,EmberScript,41
+bsd-3-clause,SWIG,41
+bsd-3-clause,sed,40
+bsd-3-clause,Bro,40
+bsd-3-clause,HCL,39
+bsd-3-clause,Agda,39
+bsd-3-clause,FLUX,38
+bsd-3-clause,Boo,36
+bsd-3-clause,Module Management System,35
+bsd-3-clause,Web Ontology Language,32
+bsd-3-clause,Limbo,32
+bsd-3-clause,AMPL,31
+bsd-3-clause,LabVIEW,29
+bsd-3-clause,Frege,26
+bsd-3-clause,Nemerle,26
+bsd-3-clause,AspectJ,25
+bsd-3-clause,Starlark,24
+bsd-3-clause,POV-Ray SDL,24
+bsd-3-clause,AutoIt,24
+bsd-3-clause,RenderScript,23
+bsd-3-clause,Rich Text Format,23
+bsd-3-clause,E,22
+bsd-3-clause,HLSL,22
+bsd-3-clause,Ragel,21
+bsd-3-clause,Brightscript,21
+bsd-3-clause,eC,21
+bsd-3-clause,Isabelle,21
+bsd-3-clause,API Blueprint,20
+bsd-3-clause,Lasso,19
+bsd-3-clause,RobotFramework,19
+bsd-3-clause,Modelica,19
+bsd-3-clause,MAXScript,19
+bsd-3-clause,Gosu,18
+bsd-3-clause,Papyrus,18
+bsd-3-clause,Csound Document,17
+bsd-3-clause,ShaderLab,17
+bsd-3-clause,LilyPond,16
+bsd-3-clause,PAWN,16
+bsd-3-clause,Visual Basic .NET,15
+bsd-3-clause,Zephir,15
+bsd-3-clause,Nu,15
+bsd-3-clause,XC,14
+bsd-3-clause,Delphi,14
+bsd-3-clause,DM,14
+bsd-3-clause,Terra,14
+bsd-3-clause,Jasmin,14
+bsd-3-clause,BitBake,14
+bsd-3-clause,Arc,14
+bsd-3-clause,Objective-J,14
+bsd-3-clause,Stan,12
+bsd-3-clause,Clean,12
+bsd-3-clause,Cap'n Proto,12
+bsd-3-clause,Clarion,11
+bsd-3-clause,Dylan,11
+bsd-3-clause,Pike,11
+bsd-3-clause,UnrealScript,11
+bsd-3-clause,wdl,11
+bsd-3-clause,Squirrel,11
+bsd-3-clause,Vim Snippet,10
+bsd-3-clause,Xtend,10
+bsd-3-clause,SMT,10
+bsd-3-clause,IGOR Pro,10
+bsd-3-clause,Red,10
+bsd-3-clause,VBScript,10
+bsd-3-clause,VCL,10
+bsd-3-clause,GAMS,9
+bsd-3-clause,mupad,9
+bsd-3-clause,Inform 7,9
+bsd-3-clause,Harbour,8
+bsd-3-clause,RAML,8
+bsd-3-clause,xBase,8
+bsd-3-clause,GDScript,8
+bsd-3-clause,Pawn,7
+bsd-3-clause,1C Enterprise,7
+bsd-3-clause,Fancy,7
+bsd-3-clause,wisp,7
+bsd-3-clause,AngelScript,7
+bsd-3-clause,Shen,7
+bsd-3-clause,BlitzBasic,7
+bsd-3-clause,SCSS,6
+bsd-3-clause,Raku,6
+bsd-3-clause,WebAssembly,6
+bsd-3-clause,Parrot,5
+bsd-3-clause,Augeas,5
+bsd-3-clause,Modula-2,5
+bsd-3-clause,Turing,5
+bsd-3-clause,YARA,5
+bsd-3-clause,Component Pascal,5
+bsd-3-clause,PigLatin,5
+bsd-3-clause,Hy,5
+bsd-3-clause,Grammatical Framework,5
+bsd-3-clause,VBA,5
+bsd-3-clause,V,4
+bsd-3-clause,Oxygene,4
+bsd-3-clause,Redcode,4
+bsd-3-clause,LOLCODE,4
+bsd-3-clause,q,4
+bsd-3-clause,YASnippet,4
+bsd-3-clause,Zimpl,4
+bsd-3-clause,Chapel,4
+bsd-3-clause,ATS,4
+bsd-3-clause,Xojo,4
+bsd-3-clause,WebIDL,4
+bsd-3-clause,NetLogo,4
+bsd-3-clause,ooc,3
+bsd-3-clause,Alloy,3
+bsd-3-clause,BlitzMax,3
+bsd-3-clause,Dhall,3
+bsd-3-clause,KRL,3
+bsd-3-clause,Opa,3
+bsd-3-clause,Oz,3
+bsd-3-clause,ChucK,3
+bsd-3-clause,SmPL,3
+bsd-3-clause,XProc,3
+bsd-3-clause,HyPhy,3
+bsd-3-clause,Grace,3
+bsd-3-clause,G-code,3
+bsd-3-clause,SQF,3
+bsd-3-clause,Bluespec,3
+bsd-3-clause,REALbasic,3
+bsd-3-clause,RPC,3
+bsd-3-clause,PicoLisp,3
+bsd-3-clause,Kit,3
+bsd-3-clause,Moocode,2
+bsd-3-clause,Click,2
+bsd-3-clause,Genshi,2
+bsd-3-clause,Metal,2
+bsd-3-clause,NCL,2
+bsd-3-clause,EQ,2
+bsd-3-clause,KiCad Layout,2
+bsd-3-clause,APL,2
+bsd-3-clause,Smali,2
+bsd-3-clause,Cool,2
+bsd-3-clause,ObjectScript,2
+bsd-3-clause,Zeek,2
+bsd-3-clause,Csound,2
+bsd-3-clause,SRecode Template,2
+bsd-3-clause,Pan,2
+bsd-3-clause,Nit,2
+bsd-3-clause,JFlex,2
+bsd-3-clause,TXL,2
+bsd-3-clause,Asymptote,1
+bsd-3-clause,Charity,1
+bsd-3-clause,MQL4,1
+bsd-3-clause,PowerBuilder,1
+bsd-3-clause,REXX,1
+bsd-3-clause,Jolie,1
+bsd-3-clause,P4,1
+bsd-3-clause,Faust,1
+bsd-3-clause,Markdown,1
+bsd-3-clause,Common Workflow Language,1
+bsd-3-clause,RUNOFF,1
+bsd-3-clause,DCPU-16 ASM,1
+bsd-3-clause,Rascal,1
+bsd-3-clause,MQL5,1
+bsd-3-clause,Mustache,1
+bsd-3-clause,Pony,1
+bsd-3-clause,Factor,1
+bsd-3-clause,Ceylon,1
+bsd-3-clause,Cycript,1
+bsd-3-clause,Dogescript,1
+bsd-3-clause,Ecl,1
+bsd-3-clause,Golo,1
+bsd-3-clause,J,1
+bsd-3-clause,Logtalk,1
+bsd-3-clause,LookML,1
+bsd-3-clause,LoomScript,1
+bsd-3-clause,MTML,1
+bsd-3-clause,Monkey,1
+bsd-3-clause,NetLinx,1
+bsd-3-clause,NetLinx+ERB,1
+bsd-3-clause,Omgrofl,1
+bsd-3-clause,Opal,1
+bsd-3-clause,Ox,1
+bsd-3-clause,PogoScript,1
+bsd-3-clause,Propeller Spin,1
+bsd-3-clause,ShellSession,1
+bsd-3-clause,Tea,1
+bsd-3-clause,Slice,1
+bsd-3-clause,Mirah,1
+bsd-2-clause,Python,14210
+bsd-2-clause,Shell,13724
+bsd-2-clause,JavaScript,10945
+bsd-2-clause,C,8639
+bsd-2-clause,HTML,8582
+bsd-2-clause,CSS,7620
+bsd-2-clause,C++,7235
+bsd-2-clause,Makefile,7056
+bsd-2-clause,Ruby,5309
+bsd-2-clause,Java,3695
+bsd-2-clause,Go,3288
+bsd-2-clause,Objective-C,3084
+bsd-2-clause,PHP,3069
+bsd-2-clause,Perl,2937
+bsd-2-clause,CMake,1830
+bsd-2-clause,Batchfile,1612
+bsd-2-clause,C#,1520
+bsd-2-clause,Haskell,1218
+bsd-2-clause,Groff,1210
+bsd-2-clause,Matlab,1022
+bsd-2-clause,Assembly,965
+bsd-2-clause,PostScript,860
+bsd-2-clause,Lua,834
+bsd-2-clause,Scala,628
+bsd-2-clause,VimL,578
+bsd-2-clause,CoffeeScript,574
+bsd-2-clause,TeX,519
+bsd-2-clause,Swift,477
+bsd-2-clause,PowerShell,463
+bsd-2-clause,Erlang,450
+bsd-2-clause,R,418
+bsd-2-clause,Emacs Lisp,408
+bsd-2-clause,Dockerfile,389
+bsd-2-clause,Handlebars,358
+bsd-2-clause,Common Lisp,355
+bsd-2-clause,Jupyter Notebook,343
+bsd-2-clause,Vim script,328
+bsd-2-clause,M4,320
+bsd-2-clause,Puppet,320
+bsd-2-clause,Rust,319
+bsd-2-clause,Smarty,319
+bsd-2-clause,Arduino,318
+bsd-2-clause,ApacheConf,318
+bsd-2-clause,XSLT,316
+bsd-2-clause,Dart,314
+bsd-2-clause,M,313
+bsd-2-clause,QMake,290
+bsd-2-clause,Objective-C++,289
+bsd-2-clause,Nginx,279
+bsd-2-clause,Scheme,271
+bsd-2-clause,Roff,270
+bsd-2-clause,Groovy,257
+bsd-2-clause,GLSL,250
+bsd-2-clause,OCaml,244
+bsd-2-clause,Prolog,240
+bsd-2-clause,Clojure,227
+bsd-2-clause,Cuda,205
+bsd-2-clause,Protocol Buffer,205
+bsd-2-clause,TypeScript,200
+bsd-2-clause,Visual Basic,193
+bsd-2-clause,Tcl,175
+bsd-2-clause,Perl6,165
+bsd-2-clause,Awk,156
+bsd-2-clause,Pascal,156
+bsd-2-clause,Julia,155
+bsd-2-clause,D,153
+bsd-2-clause,Yacc,145
+bsd-2-clause,XS,144
+bsd-2-clause,Haxe,142
+bsd-2-clause,LabVIEW,137
+bsd-2-clause,ActionScript,125
+bsd-2-clause,FORTRAN,123
+bsd-2-clause,ASP,122
+bsd-2-clause,Elixir,122
+bsd-2-clause,Smalltalk,121
+bsd-2-clause,Lex,121
+bsd-2-clause,PLpgSQL,121
+bsd-2-clause,Verilog,118
+bsd-2-clause,Mako,107
+bsd-2-clause,NSIS,97
+bsd-2-clause,Standard ML,90
+bsd-2-clause,F#,89
+bsd-2-clause,Gnuplot,88
+bsd-2-clause,Racket,86
+bsd-2-clause,GAP,81
+bsd-2-clause,Mathematica,76
+bsd-2-clause,MATLAB,73
+bsd-2-clause,Logos,69
+bsd-2-clause,VHDL,68
+bsd-2-clause,Nix,67
+bsd-2-clause,OpenEdge ABL,66
+bsd-2-clause,Fortran,64
+bsd-2-clause,Cucumber,61
+bsd-2-clause,IDL,60
+bsd-2-clause,Kotlin,60
+bsd-2-clause,SuperCollider,60
+bsd-2-clause,QML,59
+bsd-2-clause,SourcePawn,58
+bsd-2-clause,TSQL,58
+bsd-2-clause,Inno Setup,55
+bsd-2-clause,PLSQL,55
+bsd-2-clause,HCL,54
+bsd-2-clause,Processing,54
+bsd-2-clause,Ada,53
+bsd-2-clause,Coq,51
+bsd-2-clause,AppleScript,50
+bsd-2-clause,DIGITAL Command Language,50
+bsd-2-clause,SAS,49
+bsd-2-clause,Thrift,47
+bsd-2-clause,Module Management System,47
+bsd-2-clause,Perl 6,44
+bsd-2-clause,Rebol,44
+bsd-2-clause,LLVM,43
+bsd-2-clause,SQLPL,43
+bsd-2-clause,ColdFusion,38
+bsd-2-clause,Mercury,38
+bsd-2-clause,NewLisp,37
+bsd-2-clause,GDB,37
+bsd-2-clause,Scilab,37
+bsd-2-clause,Bison,37
+bsd-2-clause,Vue,36
+bsd-2-clause,OpenSCAD,36
+bsd-2-clause,Brainfuck,36
+bsd-2-clause,DTrace,36
+bsd-2-clause,Gherkin,35
+bsd-2-clause,SystemVerilog,33
+bsd-2-clause,ANTLR,33
+bsd-2-clause,AutoHotkey,32
+bsd-2-clause,Factor,31
+bsd-2-clause,Pony,31
+bsd-2-clause,LiveScript,30
+bsd-2-clause,Forth,30
+bsd-2-clause,FreeMarker,30
+bsd-2-clause,eC,29
+bsd-2-clause,Eagle,29
+bsd-2-clause,Diff,28
+bsd-2-clause,XML,27
+bsd-2-clause,CLIPS,27
+bsd-2-clause,Ragel in Ruby Host,27
+bsd-2-clause,Clean,27
+bsd-2-clause,Vala,26
+bsd-2-clause,Elm,24
+bsd-2-clause,Game Maker Language,24
+bsd-2-clause,XQuery,23
+bsd-2-clause,KiCad,23
+bsd-2-clause,Hack,23
+bsd-2-clause,Apex,22
+bsd-2-clause,Nimrod,22
+bsd-2-clause,Cap'n Proto,22
+bsd-2-clause,XProc,22
+bsd-2-clause,Stata,22
+bsd-2-clause,Boo,21
+bsd-2-clause,Bro,21
+bsd-2-clause,Dylan,21
+bsd-2-clause,Objective-J,20
+bsd-2-clause,Idris,20
+bsd-2-clause,Meson,20
+bsd-2-clause,Ragel,19
+bsd-2-clause,Gosu,19
+bsd-2-clause,HyPhy,19
+bsd-2-clause,HLSL,19
+bsd-2-clause,Limbo,19
+bsd-2-clause,nesC,19
+bsd-2-clause,Logtalk,18
+bsd-2-clause,Xtend,18
+bsd-2-clause,DOT,18
+bsd-2-clause,EmberScript,18
+bsd-2-clause,FLUX,18
+bsd-2-clause,Rich Text Format,18
+bsd-2-clause,SaltStack,17
+bsd-2-clause,Lasso,16
+bsd-2-clause,MoonScript,16
+bsd-2-clause,Nemerle,16
+bsd-2-clause,Agda,16
+bsd-2-clause,Max,16
+bsd-2-clause,Ioke,15
+bsd-2-clause,Isabelle,15
+bsd-2-clause,PAWN,15
+bsd-2-clause,AGS Script,15
+bsd-2-clause,Delphi,14
+bsd-2-clause,Fancy,14
+bsd-2-clause,Fantom,14
+bsd-2-clause,Ceylon,13
+bsd-2-clause,COBOL,13
+bsd-2-clause,xBase,13
+bsd-2-clause,AutoIt,12
+bsd-2-clause,Pure Data,11
+bsd-2-clause,Ecl,11
+bsd-2-clause,Monkey,11
+bsd-2-clause,Opa,11
+bsd-2-clause,PogoScript,11
+bsd-2-clause,sed,11
+bsd-2-clause,BlitzBasic,11
+bsd-2-clause,Oz,10
+bsd-2-clause,Eiffel,10
+bsd-2-clause,Hy,10
+bsd-2-clause,Liquid,10
+bsd-2-clause,Modelica,10
+bsd-2-clause,PigLatin,10
+bsd-2-clause,RobotFramework,10
+bsd-2-clause,Nu,9
+bsd-2-clause,VCL,9
+bsd-2-clause,Cirru,9
+bsd-2-clause,Inform 7,9
+bsd-2-clause,LSL,9
+bsd-2-clause,Moocode,9
+bsd-2-clause,Pike,9
+bsd-2-clause,ShellSession,9
+bsd-2-clause,UnrealScript,9
+bsd-2-clause,YASnippet,8
+bsd-2-clause,Alloy,8
+bsd-2-clause,BlitzMax,8
+bsd-2-clause,Jasmin,8
+bsd-2-clause,Red,8
+bsd-2-clause,AMPL,8
+bsd-2-clause,GCC Machine Description,8
+bsd-2-clause,Slash,7
+bsd-2-clause,Io,7
+bsd-2-clause,API Blueprint,7
+bsd-2-clause,Crystal,7
+bsd-2-clause,APL,7
+bsd-2-clause,Pan,7
+bsd-2-clause,Zephir,7
+bsd-2-clause,RAML,7
+bsd-2-clause,Raku,6
+bsd-2-clause,VBScript,6
+bsd-2-clause,Chapel,6
+bsd-2-clause,J,6
+bsd-2-clause,Volt,6
+bsd-2-clause,POV-Ray SDL,6
+bsd-2-clause,Rascal,6
+bsd-2-clause,SQL,6
+bsd-2-clause,Metal,6
+bsd-2-clause,Common Workflow Language,6
+bsd-2-clause,Starlark,5
+bsd-2-clause,Gettext Catalog,5
+bsd-2-clause,Mask,5
+bsd-2-clause,Nit,5
+bsd-2-clause,mupad,5
+bsd-2-clause,Nim,5
+bsd-2-clause,Web Ontology Language,5
+bsd-2-clause,AspectJ,5
+bsd-2-clause,SWIG,5
+bsd-2-clause,CWeb,4
+bsd-2-clause,Golo,4
+bsd-2-clause,Modula-2,4
+bsd-2-clause,Myghty,4
+bsd-2-clause,Redcode,4
+bsd-2-clause,Tea,4
+bsd-2-clause,ooc,4
+bsd-2-clause,Terra,4
+bsd-2-clause,RenderScript,4
+bsd-2-clause,ShaderLab,4
+bsd-2-clause,Pawn,4
+bsd-2-clause,GDScript,4
+bsd-2-clause,E,4
+bsd-2-clause,PureBasic,4
+bsd-2-clause,Bluespec,3
+bsd-2-clause,AngelScript,3
+bsd-2-clause,Xojo,3
+bsd-2-clause,Lean,3
+bsd-2-clause,Stan,3
+bsd-2-clause,CartoCSS,3
+bsd-2-clause,ABAP,3
+bsd-2-clause,MAXScript,3
+bsd-2-clause,Augeas,3
+bsd-2-clause,Clarion,3
+bsd-2-clause,JSONiq,3
+bsd-2-clause,Brightscript,3
+bsd-2-clause,SQF,3
+bsd-2-clause,ChucK,3
+bsd-2-clause,IGOR Pro,3
+bsd-2-clause,Squirrel,3
+bsd-2-clause,DCPU-16 ASM,3
+bsd-2-clause,Component Pascal,3
+bsd-2-clause,G-code,3
+bsd-2-clause,XC,2
+bsd-2-clause,Shen,2
+bsd-2-clause,Smali,2
+bsd-2-clause,X10,2
+bsd-2-clause,wdl,2
+bsd-2-clause,NCL,2
+bsd-2-clause,NetLogo,2
+bsd-2-clause,Arc,2
+bsd-2-clause,MQL4,2
+bsd-2-clause,Csound Document,2
+bsd-2-clause,WebAssembly,2
+bsd-2-clause,Grammatical Framework,2
+bsd-2-clause,KRL,2
+bsd-2-clause,Csound Score,2
+bsd-2-clause,LilyPond,2
+bsd-2-clause,VBA,2
+bsd-2-clause,Vim Snippet,2
+bsd-2-clause,Mirah,2
+bsd-2-clause,q,2
+bsd-2-clause,PureScript,2
+bsd-2-clause,MQL5,2
+bsd-2-clause,BitBake,2
+bsd-2-clause,Grace,1
+bsd-2-clause,YARA,1
+bsd-2-clause,DM,1
+bsd-2-clause,Odin,1
+bsd-2-clause,Self,1
+bsd-2-clause,Parrot,1
+bsd-2-clause,Frege,1
+bsd-2-clause,Harbour,1
+bsd-2-clause,REXX,1
+bsd-2-clause,Turing,1
+bsd-2-clause,SMT,1
+bsd-2-clause,Dhall,1
+bsd-2-clause,Zeek,1
+bsd-2-clause,Zig,1
+bsd-2-clause,Jolie,1
+bsd-2-clause,TLA,1
+bsd-2-clause,Oxygene,1
+bsd-2-clause,Papyrus,1
+bsd-2-clause,RPC,1
+bsd-2-clause,PicoLisp,1
+bsd-2-clause,wisp,1
+bsd-2-clause,Reason,1
+bsd-2-clause,ECL,1
+bsd-2-clause,Cool,1
+bsd-2-clause,SRecode Template,1
+bsd-2-clause,1C Enterprise,1
+bsd-2-clause,Nearley,1
+artistic-2.0,Perl,2067
+artistic-2.0,JavaScript,1289
+artistic-2.0,CSS,1236
+artistic-2.0,HTML,1135
+artistic-2.0,Shell,881
+artistic-2.0,Perl6,598
+artistic-2.0,Python,578
+artistic-2.0,Java,541
+artistic-2.0,C,451
+artistic-2.0,Makefile,385
+artistic-2.0,C++,376
+artistic-2.0,Perl 6,316
+artistic-2.0,PHP,277
+artistic-2.0,Ruby,267
+artistic-2.0,C#,196
+artistic-2.0,Objective-C,154
+artistic-2.0,Batchfile,152
+artistic-2.0,R,144
+artistic-2.0,TeX,115
+artistic-2.0,Lua,67
+artistic-2.0,Parrot,66
+artistic-2.0,CoffeeScript,61
+artistic-2.0,Common Lisp,56
+artistic-2.0,Scala,53
+artistic-2.0,CMake,52
+artistic-2.0,Haskell,50
+artistic-2.0,ApacheConf,49
+artistic-2.0,Go,49
+artistic-2.0,PowerShell,43
+artistic-2.0,Prolog,42
+artistic-2.0,Emacs Lisp,41
+artistic-2.0,Erlang,41
+artistic-2.0,ASP,40
+artistic-2.0,Visual Basic,39
+artistic-2.0,Arduino,38
+artistic-2.0,Processing,37
+artistic-2.0,Assembly,37
+artistic-2.0,Raku,33
+artistic-2.0,Protocol Buffer,33
+artistic-2.0,Swift,32
+artistic-2.0,VimL,29
+artistic-2.0,Clojure,28
+artistic-2.0,Groovy,27
+artistic-2.0,Dockerfile,27
+artistic-2.0,XProc,26
+artistic-2.0,XS,24
+artistic-2.0,GLSL,24
+artistic-2.0,Matlab,24
+artistic-2.0,XSLT,23
+artistic-2.0,Rust,23
+artistic-2.0,D,22
+artistic-2.0,TypeScript,21
+artistic-2.0,Groff,20
+artistic-2.0,Elixir,18
+artistic-2.0,F#,18
+artistic-2.0,PLpgSQL,18
+artistic-2.0,Scheme,18
+artistic-2.0,Mathematica,18
+artistic-2.0,ActionScript,18
+artistic-2.0,Pascal,17
+artistic-2.0,Vim script,17
+artistic-2.0,OpenSCAD,17
+artistic-2.0,Meson,16
+artistic-2.0,Roff,16
+artistic-2.0,Kotlin,15
+artistic-2.0,FORTRAN,15
+artistic-2.0,Tcl,15
+artistic-2.0,GAP,14
+artistic-2.0,Cucumber,14
+artistic-2.0,Rebol,14
+artistic-2.0,PureScript,14
+artistic-2.0,OCaml,14
+artistic-2.0,Verilog,14
+artistic-2.0,FreeMarker,13
+artistic-2.0,Idris,13
+artistic-2.0,Dart,13
+artistic-2.0,Forth,13
+artistic-2.0,Julia,13
+artistic-2.0,AppleScript,12
+artistic-2.0,VHDL,12
+artistic-2.0,Smarty,12
+artistic-2.0,Inno Setup,11
+artistic-2.0,XQuery,11
+artistic-2.0,Puppet,11
+artistic-2.0,PLSQL,11
+artistic-2.0,AutoHotkey,11
+artistic-2.0,COBOL,11
+artistic-2.0,Elm,11
+artistic-2.0,LSL,11
+artistic-2.0,LiveScript,11
+artistic-2.0,PostScript,11
+artistic-2.0,TSQL,11
+artistic-2.0,Jupyter Notebook,10
+artistic-2.0,ABAP,10
+artistic-2.0,Ada,10
+artistic-2.0,Cirru,10
+artistic-2.0,ColdFusion,10
+artistic-2.0,Eiffel,10
+artistic-2.0,Haxe,10
+artistic-2.0,Io,10
+artistic-2.0,JSONiq,10
+artistic-2.0,Lean,10
+artistic-2.0,Liquid,10
+artistic-2.0,Mask,10
+artistic-2.0,Nix,10
+artistic-2.0,Vala,10
+artistic-2.0,Turing,9
+artistic-2.0,Pure Data,9
+artistic-2.0,NSIS,8
+artistic-2.0,Max,7
+artistic-2.0,AutoIt,7
+artistic-2.0,SourcePawn,7
+artistic-2.0,SuperCollider,6
+artistic-2.0,Web Ontology Language,6
+artistic-2.0,Gnuplot,6
+artistic-2.0,HLSL,6
+artistic-2.0,Fortran,5
+artistic-2.0,QMake,5
+artistic-2.0,Lex,5
+artistic-2.0,Objective-C++,5
+artistic-2.0,M4,4
+artistic-2.0,SQLPL,4
+artistic-2.0,Nginx,4
+artistic-2.0,M,4
+artistic-2.0,Stata,4
+artistic-2.0,Yacc,4
+artistic-2.0,SystemVerilog,4
+artistic-2.0,Awk,4
+artistic-2.0,XML,4
+artistic-2.0,AGS Script,4
+artistic-2.0,Rich Text Format,4
+artistic-2.0,Thrift,3
+artistic-2.0,QML,3
+artistic-2.0,NewLisp,3
+artistic-2.0,Vue,3
+artistic-2.0,Coq,3
+artistic-2.0,Component Pascal,3
+artistic-2.0,sed,3
+artistic-2.0,Smalltalk,3
+artistic-2.0,Game Maker Language,3
+artistic-2.0,POV-Ray SDL,2
+artistic-2.0,IDL,2
+artistic-2.0,Hack,2
+artistic-2.0,API Blueprint,2
+artistic-2.0,DM,2
+artistic-2.0,Standard ML,2
+artistic-2.0,Squirrel,2
+artistic-2.0,ANTLR,2
+artistic-2.0,Ragel in Ruby Host,2
+artistic-2.0,Scilab,2
+artistic-2.0,Handlebars,2
+artistic-2.0,LilyPond,2
+artistic-2.0,Redcode,2
+artistic-2.0,FLUX,2
+artistic-2.0,Logtalk,2
+artistic-2.0,Pike,2
+artistic-2.0,Grammatical Framework,2
+artistic-2.0,Agda,2
+artistic-2.0,Inform 7,2
+artistic-2.0,Brainfuck,2
+artistic-2.0,GDScript,1
+artistic-2.0,DCPU-16 ASM,1
+artistic-2.0,PAWN,1
+artistic-2.0,Boo,1
+artistic-2.0,ooc,1
+artistic-2.0,Fantom,1
+artistic-2.0,MTML,1
+artistic-2.0,Kit,1
+artistic-2.0,GDB,1
+artistic-2.0,Oz,1
+artistic-2.0,Gosu,1
+artistic-2.0,DIGITAL Command Language,1
+artistic-2.0,DOT,1
+artistic-2.0,Logos,1
+artistic-2.0,eC,1
+artistic-2.0,Bison,1
+artistic-2.0,MATLAB,1
+artistic-2.0,AMPL,1
+artistic-2.0,NetLinx,1
+artistic-2.0,mIRC Script,1
+artistic-2.0,SAS,1
+artistic-2.0,NetLogo,1
+artistic-2.0,UnrealScript,1
+artistic-2.0,ShaderLab,1
+artistic-2.0,Ecl,1
+artistic-2.0,LLVM,1
+artistic-2.0,Hy,1
+artistic-2.0,SaltStack,1
+artistic-2.0,Eagle,1
+artistic-2.0,Arc,1
+artistic-2.0,BlitzMax,1
+artistic-2.0,Racket,1
+artistic-2.0,Fancy,1
+artistic-2.0,Lasso,1
+artistic-2.0,OpenEdge ABL,1
+artistic-2.0,SWIG,1
+apache-2.0,Java,148662
+apache-2.0,JavaScript,131593
+apache-2.0,HTML,119628
+apache-2.0,CSS,111794
+apache-2.0,Shell,110589
+apache-2.0,Python,80166
+apache-2.0,Ruby,41969
+apache-2.0,Makefile,35243
+apache-2.0,C,30414
+apache-2.0,PHP,29346
+apache-2.0,C++,29007
+apache-2.0,Batchfile,21694
+apache-2.0,C#,21691
+apache-2.0,Go,21665
+apache-2.0,Objective-C,19776
+apache-2.0,Scala,13776
+apache-2.0,Groovy,13673
+apache-2.0,Perl,10490
+apache-2.0,CMake,7341
+apache-2.0,PowerShell,7191
+apache-2.0,XSLT,7056
+apache-2.0,Dockerfile,6156
+apache-2.0,TypeScript,5719
+apache-2.0,Puppet,5608
+apache-2.0,ApacheConf,5498
+apache-2.0,Protocol Buffer,5197
+apache-2.0,Swift,5011
+apache-2.0,CoffeeScript,4589
+apache-2.0,ASP,4267
+apache-2.0,Lua,3694
+apache-2.0,Kotlin,3352
+apache-2.0,Assembly,3090
+apache-2.0,R,3067
+apache-2.0,Erlang,3020
+apache-2.0,Rust,2860
+apache-2.0,Smarty,2709
+apache-2.0,TeX,2691
+apache-2.0,Groff,2655
+apache-2.0,Thrift,2629
+apache-2.0,Jupyter Notebook,2618
+apache-2.0,Objective-C++,2453
+apache-2.0,Pascal,2297
+apache-2.0,Nginx,2273
+apache-2.0,PLSQL,2243
+apache-2.0,PLpgSQL,1944
+apache-2.0,Emacs Lisp,1934
+apache-2.0,VimL,1930
+apache-2.0,FreeMarker,1908
+apache-2.0,Clojure,1713
+apache-2.0,Roff,1713
+apache-2.0,Arduino,1653
+apache-2.0,SQLPL,1552
+apache-2.0,Visual Basic,1544
+apache-2.0,GLSL,1531
+apache-2.0,Matlab,1486
+apache-2.0,Lex,1482
+apache-2.0,F#,1460
+apache-2.0,GAP,1431
+apache-2.0,ANTLR,1403
+apache-2.0,M4,1385
+apache-2.0,Haskell,1382
+apache-2.0,TSQL,1306
+apache-2.0,Smalltalk,1256
+apache-2.0,Yacc,1175
+apache-2.0,Awk,1174
+apache-2.0,Mako,1154
+apache-2.0,ActionScript,1125
+apache-2.0,Dart,1072
+apache-2.0,SaltStack,1057
+apache-2.0,Cucumber,1044
+apache-2.0,QMake,1019
+apache-2.0,D,996
+apache-2.0,DIGITAL Command Language,993
+apache-2.0,Perl6,988
+apache-2.0,Prolog,970
+apache-2.0,Vim script,940
+apache-2.0,Tcl,876
+apache-2.0,Cuda,852
+apache-2.0,HCL,831
+apache-2.0,Vue,783
+apache-2.0,Scheme,781
+apache-2.0,Elixir,755
+apache-2.0,Gherkin,752
+apache-2.0,NSIS,708
+apache-2.0,QML,703
+apache-2.0,LLVM,590
+apache-2.0,Starlark,578
+apache-2.0,Handlebars,545
+apache-2.0,OCaml,542
+apache-2.0,AppleScript,516
+apache-2.0,AspectJ,482
+apache-2.0,Inno Setup,476
+apache-2.0,PigLatin,465
+apache-2.0,Processing,425
+apache-2.0,IDL,419
+apache-2.0,ColdFusion,413
+apache-2.0,XQuery,406
+apache-2.0,M,402
+apache-2.0,Ragel in Ruby Host,398
+apache-2.0,XML,395
+apache-2.0,OpenEdge ABL,394
+apache-2.0,Common Lisp,390
+apache-2.0,PostScript,381
+apache-2.0,DTrace,378
+apache-2.0,AMPL,363
+apache-2.0,Logos,348
+apache-2.0,sed,327
+apache-2.0,Standard ML,322
+apache-2.0,Perl 6,309
+apache-2.0,Elm,306
+apache-2.0,Gnuplot,298
+apache-2.0,Mathematica,294
+apache-2.0,XS,271
+apache-2.0,RobotFramework,262
+apache-2.0,Haxe,258
+apache-2.0,Verilog,248
+apache-2.0,Eagle,246
+apache-2.0,FORTRAN,238
+apache-2.0,SourcePawn,237
+apache-2.0,MATLAB,233
+apache-2.0,PureBasic,232
+apache-2.0,Web Ontology Language,226
+apache-2.0,Hack,209
+apache-2.0,Julia,207
+apache-2.0,Module Management System,200
+apache-2.0,Ada,198
+apache-2.0,Fortran,194
+apache-2.0,Nix,185
+apache-2.0,GCC Machine Description,175
+apache-2.0,RAML,169
+apache-2.0,HLSL,167
+apache-2.0,Racket,165
+apache-2.0,SAS,163
+apache-2.0,Xtend,153
+apache-2.0,API Blueprint,153
+apache-2.0,Rebol,150
+apache-2.0,Apex,146
+apache-2.0,Rich Text Format,145
+apache-2.0,ShaderLab,141
+apache-2.0,Smali,138
+apache-2.0,Gosu,135
+apache-2.0,VHDL,133
+apache-2.0,Forth,130
+apache-2.0,RenderScript,130
+apache-2.0,Bison,130
+apache-2.0,Scilab,127
+apache-2.0,GDB,125
+apache-2.0,PureScript,124
+apache-2.0,Liquid,122
+apache-2.0,SystemVerilog,122
+apache-2.0,CLIPS,117
+apache-2.0,LiveScript,110
+apache-2.0,1C Enterprise,104
+apache-2.0,FLUX,102
+apache-2.0,AutoHotkey,102
+apache-2.0,HiveQL,101
+apache-2.0,OpenSCAD,101
+apache-2.0,q,98
+apache-2.0,Lasso,98
+apache-2.0,KiCad,93
+apache-2.0,SuperCollider,93
+apache-2.0,Ragel,92
+apache-2.0,Io,91
+apache-2.0,eC,83
+apache-2.0,Objective-J,83
+apache-2.0,Cap'n Proto,82
+apache-2.0,Jsonnet,82
+apache-2.0,Ceylon,81
+apache-2.0,Jasmin,81
+apache-2.0,Coq,80
+apache-2.0,AGS Script,79
+apache-2.0,XProc,79
+apache-2.0,Stata,76
+apache-2.0,SQL,76
+apache-2.0,Augeas,73
+apache-2.0,Genshi,72
+apache-2.0,J,70
+apache-2.0,Vala,68
+apache-2.0,SWIG,67
+apache-2.0,Diff,67
+apache-2.0,Mercury,65
+apache-2.0,AutoIt,63
+apache-2.0,Lean,62
+apache-2.0,NewLisp,58
+apache-2.0,Meson,57
+apache-2.0,Vim Snippet,56
+apache-2.0,Pawn,55
+apache-2.0,VCL,55
+apache-2.0,JSONiq,53
+apache-2.0,DOT,52
+apache-2.0,CartoCSS,51
+apache-2.0,EmberScript,51
+apache-2.0,Raku,51
+apache-2.0,TLA,51
+apache-2.0,Max,50
+apache-2.0,SCSS,49
+apache-2.0,ABAP,48
+apache-2.0,Mask,47
+apache-2.0,Fancy,45
+apache-2.0,Nu,45
+apache-2.0,Slash,45
+apache-2.0,COBOL,44
+apache-2.0,Eiffel,44
+apache-2.0,Metal,41
+apache-2.0,Arc,41
+apache-2.0,Brainfuck,40
+apache-2.0,VBA,39
+apache-2.0,Limbo,39
+apache-2.0,BitBake,38
+apache-2.0,LookML,38
+apache-2.0,Volt,37
+apache-2.0,LabVIEW,37
+apache-2.0,VBScript,37
+apache-2.0,Pan,37
+apache-2.0,WebAssembly,37
+apache-2.0,RPC,36
+apache-2.0,AngelScript,35
+apache-2.0,Visual Basic .NET,34
+apache-2.0,Myghty,34
+apache-2.0,Crystal,34
+apache-2.0,Boo,33
+apache-2.0,Frege,33
+apache-2.0,Game Maker Language,32
+apache-2.0,XPages,31
+apache-2.0,Gettext Catalog,29
+apache-2.0,PAWN,29
+apache-2.0,Modelica,29
+apache-2.0,P4,29
+apache-2.0,Pure Data,29
+apache-2.0,LSL,28
+apache-2.0,Nim,27
+apache-2.0,SMT,27
+apache-2.0,E,27
+apache-2.0,MLIR,26
+apache-2.0,xBase,25
+apache-2.0,Common Workflow Language,25
+apache-2.0,Csound Score,24
+apache-2.0,Clean,24
+apache-2.0,Bro,23
+apache-2.0,Hy,23
+apache-2.0,POV-Ray SDL,22
+apache-2.0,Cirru,22
+apache-2.0,SmPL,22
+apache-2.0,Ballerina,21
+apache-2.0,Mirah,20
+apache-2.0,Modula-2,19
+apache-2.0,Squirrel,19
+apache-2.0,Terra,19
+apache-2.0,Cycript,18
+apache-2.0,Turing,17
+apache-2.0,nesC,17
+apache-2.0,Harbour,17
+apache-2.0,JFlex,17
+apache-2.0,SQF,17
+apache-2.0,NASL,16
+apache-2.0,Nimrod,16
+apache-2.0,APL,15
+apache-2.0,Clarion,15
+apache-2.0,Nextflow,15
+apache-2.0,Component Pascal,14
+apache-2.0,MAXScript,14
+apache-2.0,UnrealScript,14
+apache-2.0,XC,14
+apache-2.0,Idris,13
+apache-2.0,Chapel,13
+apache-2.0,Genie,12
+apache-2.0,BlitzBasic,12
+apache-2.0,Nit,11
+apache-2.0,Delphi,11
+apache-2.0,Open Policy Agent,11
+apache-2.0,NetLogo,11
+apache-2.0,G-code,11
+apache-2.0,Isabelle,10
+apache-2.0,Stan,10
+apache-2.0,Cool,9
+apache-2.0,Bluespec,9
+apache-2.0,GDScript,9
+apache-2.0,YASnippet,9
+apache-2.0,Mustache,9
+apache-2.0,F*,8
+apache-2.0,LilyPond,8
+apache-2.0,GAMS,8
+apache-2.0,Brightscript,8
+apache-2.0,Filebench WML,8
+apache-2.0,Alloy,7
+apache-2.0,YARA,7
+apache-2.0,DM,7
+apache-2.0,ChucK,7
+apache-2.0,Zephir,7
+apache-2.0,MoonScript,7
+apache-2.0,Propeller Spin,7
+apache-2.0,Nemerle,7
+apache-2.0,Zimpl,7
+apache-2.0,Csound Document,6
+apache-2.0,wdl,6
+apache-2.0,Click,6
+apache-2.0,REXX,6
+apache-2.0,Ren'Py,6
+apache-2.0,Kit,6
+apache-2.0,KRL,5
+apache-2.0,Pug,5
+apache-2.0,Rouge,5
+apache-2.0,Logtalk,5
+apache-2.0,Golo,5
+apache-2.0,mupad,5
+apache-2.0,KiCad Layout,5
+apache-2.0,MQL5,5
+apache-2.0,Dylan,5
+apache-2.0,Pony,5
+apache-2.0,CWeb,5
+apache-2.0,LFE,5
+apache-2.0,Red,5
+apache-2.0,Monkey,5
+apache-2.0,LOLCODE,5
+apache-2.0,NCL,4
+apache-2.0,Agda,4
+apache-2.0,Graphviz (DOT),4
+apache-2.0,WebIDL,4
+apache-2.0,Papyrus,4
+apache-2.0,Glyph,4
+apache-2.0,Pep8,4
+apache-2.0,MQL4,4
+apache-2.0,EJS,4
+apache-2.0,SRecode Template,4
+apache-2.0,UrWeb,4
+apache-2.0,Nearley,4
+apache-2.0,Oxygene,4
+apache-2.0,Xojo,4
+apache-2.0,Riot,4
+apache-2.0,Jolie,4
+apache-2.0,Inform 7,3
+apache-2.0,Pike,3
+apache-2.0,Sass,3
+apache-2.0,Charity,3
+apache-2.0,BlitzMax,3
+apache-2.0,Opal,3
+apache-2.0,Rascal,3
+apache-2.0,V,3
+apache-2.0,IGOR Pro,3
+apache-2.0,HyPhy,2
+apache-2.0,Solidity,2
+apache-2.0,X10,2
+apache-2.0,Redcode,2
+apache-2.0,ASP.NET,2
+apache-2.0,Markdown,2
+apache-2.0,ECL,2
+apache-2.0,PowerBuilder,2
+apache-2.0,ooc,2
+apache-2.0,Svelte,2
+apache-2.0,Zeek,2
+apache-2.0,ObjectScript,2
+apache-2.0,Grammatical Framework,2
+apache-2.0,Closure Templates,2
+apache-2.0,Self,2
+apache-2.0,Asymptote,2
+apache-2.0,Fantom,2
+apache-2.0,Tea,1
+apache-2.0,ATS,1
+apache-2.0,CodeQL,1
+apache-2.0,Dhall,1
+apache-2.0,Slim,1
+apache-2.0,Sage,1
+apache-2.0,PicoLisp,1
+apache-2.0,Twig,1
+apache-2.0,Uno,1
+apache-2.0,DCPU-16 ASM,1
+apache-2.0,Modula-3,1
+apache-2.0,Opa,1
+apache-2.0,EQ,1
+apache-2.0,DataWeave,1
+apache-2.0,Zig,1
+apache-2.0,ImageJ Macro,1
+apache-2.0,GAML,1
+apache-2.0,Reason,1
+apache-2.0,Befunge,1
+apache-2.0,Csound,1
+apache-2.0,Less,1
+apache-2.0,HolyC,1
+apache-2.0,JSON,1
+apache-2.0,TXL,1
+apache-2.0,Nunjucks,1
+apache-2.0,Ecl,1
+apache-2.0,Omgrofl,1
+apache-2.0,Parrot,1
+apache-2.0,ZAP,1
+apache-2.0,MTML,1
+agpl-3.0,JavaScript,17965
+agpl-3.0,CSS,15786
+agpl-3.0,HTML,14131
+agpl-3.0,Python,13980
+agpl-3.0,Shell,13412
+agpl-3.0,PHP,6164
+agpl-3.0,Makefile,5045
+agpl-3.0,Ruby,4428
+agpl-3.0,Java,3995
+agpl-3.0,C++,3128
+agpl-3.0,C,3015
+agpl-3.0,Batchfile,2040
+agpl-3.0,CoffeeScript,1843
+agpl-3.0,Perl,1434
+agpl-3.0,Smarty,1199
+agpl-3.0,ApacheConf,1187
+agpl-3.0,C#,1133
+agpl-3.0,Dockerfile,947
+agpl-3.0,XSLT,941
+agpl-3.0,Go,935
+agpl-3.0,Mako,750
+agpl-3.0,CMake,734
+agpl-3.0,Objective-C,714
+agpl-3.0,Lua,538
+agpl-3.0,Scala,492
+agpl-3.0,PLpgSQL,486
+agpl-3.0,ActionScript,456
+agpl-3.0,NSIS,450
+agpl-3.0,R,431
+agpl-3.0,TeX,418
+agpl-3.0,Cucumber,409
+agpl-3.0,TypeScript,399
+agpl-3.0,Haskell,386
+agpl-3.0,PowerShell,348
+agpl-3.0,TSQL,329
+agpl-3.0,Jupyter Notebook,309
+agpl-3.0,Groovy,299
+agpl-3.0,DM,292
+agpl-3.0,Groff,287
+agpl-3.0,Nginx,276
+agpl-3.0,Protocol Buffer,267
+agpl-3.0,Gherkin,250
+agpl-3.0,Emacs Lisp,237
+agpl-3.0,QMake,220
+agpl-3.0,VimL,210
+agpl-3.0,Clojure,207
+agpl-3.0,ASP,207
+agpl-3.0,SQLPL,205
+agpl-3.0,Assembly,187
+agpl-3.0,PLSQL,185
+agpl-3.0,Erlang,176
+agpl-3.0,Matlab,170
+agpl-3.0,Rust,169
+agpl-3.0,Visual Basic,169
+agpl-3.0,M4,166
+agpl-3.0,Hack,158
+agpl-3.0,Scheme,154
+agpl-3.0,QML,149
+agpl-3.0,Roff,147
+agpl-3.0,Prolog,145
+agpl-3.0,Puppet,140
+agpl-3.0,Arduino,139
+agpl-3.0,SQF,132
+agpl-3.0,GLSL,131
+agpl-3.0,Awk,128
+agpl-3.0,Vue,127
+agpl-3.0,Vim script,109
+agpl-3.0,Swift,107
+agpl-3.0,PostScript,98
+agpl-3.0,D,96
+agpl-3.0,Cap'n Proto,94
+agpl-3.0,Common Lisp,93
+agpl-3.0,Handlebars,92
+agpl-3.0,Pascal,89
+agpl-3.0,GAP,85
+agpl-3.0,Objective-C++,84
+agpl-3.0,Inno Setup,84
+agpl-3.0,SRecode Template,80
+agpl-3.0,AppleScript,80
+agpl-3.0,Elixir,76
+agpl-3.0,Kotlin,75
+agpl-3.0,Perl6,71
+agpl-3.0,Smalltalk,69
+agpl-3.0,Tcl,68
+agpl-3.0,Yacc,64
+agpl-3.0,Racket,64
+agpl-3.0,Lex,57
+agpl-3.0,Nix,55
+agpl-3.0,FreeMarker,53
+agpl-3.0,OpenSCAD,53
+agpl-3.0,ANTLR,52
+agpl-3.0,SourcePawn,51
+agpl-3.0,OCaml,50
+agpl-3.0,M,50
+agpl-3.0,Processing,49
+agpl-3.0,Elm,48
+agpl-3.0,Logos,45
+agpl-3.0,HCL,43
+agpl-3.0,Scilab,40
+agpl-3.0,Thrift,40
+agpl-3.0,XML,39
+agpl-3.0,DIGITAL Command Language,38
+agpl-3.0,Dart,34
+agpl-3.0,API Blueprint,33
+agpl-3.0,Eagle,33
+agpl-3.0,LiveScript,31
+agpl-3.0,Gnuplot,30
+agpl-3.0,GDB,29
+agpl-3.0,F#,29
+agpl-3.0,MATLAB,29
+agpl-3.0,Perl 6,29
+agpl-3.0,AGS Script,28
+agpl-3.0,ColdFusion,27
+agpl-3.0,Julia,27
+agpl-3.0,Verilog,26
+agpl-3.0,Cuda,25
+agpl-3.0,Web Ontology Language,25
+agpl-3.0,Fortran,24
+agpl-3.0,Xtend,24
+agpl-3.0,RobotFramework,23
+agpl-3.0,KiCad,23
+agpl-3.0,OpenEdge ABL,22
+agpl-3.0,Max,21
+agpl-3.0,IDL,21
+agpl-3.0,ShaderLab,21
+agpl-3.0,Standard ML,20
+agpl-3.0,Ada,20
+agpl-3.0,AutoHotkey,20
+agpl-3.0,Lasso,19
+agpl-3.0,Mathematica,18
+agpl-3.0,GCC Machine Description,18
+agpl-3.0,SQL,18
+agpl-3.0,Gosu,18
+agpl-3.0,SaltStack,18
+agpl-3.0,VHDL,17
+agpl-3.0,XQuery,17
+agpl-3.0,Gettext Catalog,17
+agpl-3.0,VCL,15
+agpl-3.0,Io,15
+agpl-3.0,XS,14
+agpl-3.0,sed,14
+agpl-3.0,SAS,14
+agpl-3.0,Mercury,14
+agpl-3.0,Liquid,13
+agpl-3.0,FORTRAN,13
+agpl-3.0,HLSL,13
+agpl-3.0,NewLisp,13
+agpl-3.0,Rich Text Format,12
+agpl-3.0,DOT,12
+agpl-3.0,CLIPS,12
+agpl-3.0,AspectJ,12
+agpl-3.0,Rebol,12
+agpl-3.0,Stata,12
+agpl-3.0,Vala,12
+agpl-3.0,Forth,11
+agpl-3.0,Module Management System,11
+agpl-3.0,Haxe,10
+agpl-3.0,Brainfuck,10
+agpl-3.0,Crystal,10
+agpl-3.0,SystemVerilog,10
+agpl-3.0,PureScript,10
+agpl-3.0,Opa,10
+agpl-3.0,Raku,10
+agpl-3.0,COBOL,9
+agpl-3.0,RAML,9
+agpl-3.0,Hy,9
+agpl-3.0,MAXScript,9
+agpl-3.0,Volt,9
+agpl-3.0,Bison,8
+agpl-3.0,AutoIt,8
+agpl-3.0,Game Maker Language,8
+agpl-3.0,SuperCollider,8
+agpl-3.0,ChucK,8
+agpl-3.0,Ragel in Ruby Host,7
+agpl-3.0,POV-Ray SDL,7
+agpl-3.0,NetLogo,7
+agpl-3.0,VBScript,7
+agpl-3.0,G-code,7
+agpl-3.0,LLVM,7
+agpl-3.0,GDScript,7
+agpl-3.0,Apex,7
+agpl-3.0,Nim,6
+agpl-3.0,Augeas,6
+agpl-3.0,Boo,6
+agpl-3.0,PigLatin,6
+agpl-3.0,Modelica,6
+agpl-3.0,SWIG,6
+agpl-3.0,Arc,6
+agpl-3.0,xBase,6
+agpl-3.0,DTrace,6
+agpl-3.0,Nu,6
+agpl-3.0,Objective-J,6
+agpl-3.0,eC,6
+agpl-3.0,AngelScript,6
+agpl-3.0,APL,5
+agpl-3.0,JSONiq,5
+agpl-3.0,CartoCSS,5
+agpl-3.0,Csound Score,5
+agpl-3.0,AMPL,5
+agpl-3.0,Common Workflow Language,5
+agpl-3.0,Slash,5
+agpl-3.0,Diff,4
+agpl-3.0,Pawn,4
+agpl-3.0,Nemerle,4
+agpl-3.0,Chapel,4
+agpl-3.0,LOLCODE,4
+agpl-3.0,Clean,4
+agpl-3.0,Ceylon,4
+agpl-3.0,Idris,4
+agpl-3.0,LilyPond,4
+agpl-3.0,Delphi,4
+agpl-3.0,Mask,4
+agpl-3.0,LSL,3
+agpl-3.0,FLUX,3
+agpl-3.0,Terra,3
+agpl-3.0,PAWN,3
+agpl-3.0,Turing,3
+agpl-3.0,Ragel,3
+agpl-3.0,Meson,3
+agpl-3.0,Nimrod,3
+agpl-3.0,Coq,3
+agpl-3.0,ABAP,2
+agpl-3.0,Cirru,2
+agpl-3.0,Clarion,2
+agpl-3.0,Agda,2
+agpl-3.0,E,2
+agpl-3.0,YARA,2
+agpl-3.0,Pure Data,2
+agpl-3.0,Zeek,2
+agpl-3.0,Mirah,2
+agpl-3.0,Bluespec,2
+agpl-3.0,Visual Basic .NET,2
+agpl-3.0,ECL,2
+agpl-3.0,Vim Snippet,2
+agpl-3.0,Nearley,2
+agpl-3.0,RPC,2
+agpl-3.0,XC,2
+agpl-3.0,Cycript,2
+agpl-3.0,Pony,2
+agpl-3.0,MoonScript,2
+agpl-3.0,Oz,2
+agpl-3.0,PureBasic,1
+agpl-3.0,Frege,1
+agpl-3.0,CWeb,1
+agpl-3.0,Jolie,1
+agpl-3.0,RenderScript,1
+agpl-3.0,Zimpl,1
+agpl-3.0,F*,1
+agpl-3.0,MQL5,1
+agpl-3.0,Starlark,1
+agpl-3.0,Stan,1
+agpl-3.0,IGOR Pro,1
+agpl-3.0,VBA,1
+agpl-3.0,Squirrel,1
+agpl-3.0,LabVIEW,1
+agpl-3.0,MQL4,1
+agpl-3.0,Eiffel,1
+agpl-3.0,Lean,1
+agpl-3.0,Wollok,1
+agpl-3.0,mIRC Script,1
+agpl-3.0,Xojo,1
+agpl-3.0,Inform 7,1
+agpl-3.0,nesC,1
+agpl-3.0,1C Enterprise,1
+agpl-3.0,Fancy,1
+agpl-3.0,UrWeb,1
+agpl-3.0,XProc,1
+agpl-3.0,Component Pascal,1
+agpl-3.0,Limbo,1
+agpl-3.0,wdl,1
+agpl-3.0,Reason,1
+agpl-3.0,YASnippet,1
+agpl-3.0,Pan,1
+agpl-3.0,Harbour,1
+agpl-3.0,JFlex,1
+agpl-3.0,mupad,1
+agpl-3.0,Alloy,1
+agpl-3.0,GAML,1
