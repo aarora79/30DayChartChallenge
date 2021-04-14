@@ -63,7 +63,7 @@ life_expectancy_and_obesity_combined %>%
   #geom_text(data=corr_text, aes(x = life_expectancy, y = obesity_prevalence, label = label, col=sex), size = 4, stat = "identity") +
   scale_color_tableau() + 
   scale_fill_tableau() +
-  labs(title="Higher the obesity prevalence lower the life expectancy!",
+  labs(title="Higher the obesity prevalence in a population, lower the life expectancy!",
        subtitle="Correlation between life expectancy and prevalence of obesity in U.S. counties",
        caption="Source: Institute of Health Metrics and Evaluation, http://www.healthdata.org/us-health/data-download")+
   theme_fivethirtyeight() +
