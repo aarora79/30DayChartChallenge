@@ -85,3 +85,11 @@ Visualizing the number of Starbucks stores per city across the top 10 countries 
 Higher the prevalence of obesity in a population, lower the life expectancy. Each point in this chart represents a U.S, county, data from [Institute for Health Metrics and Evaluation (IHME)](http://www.healthdata.org/), [this link](http://www.healthdata.org/sites/default/files/files/data_for_download/alcohol_life_expect/IHME_county_data_LifeExpectancy_Obesity_PhysicalActivity_NATIONAL.xlsx). A simple scatter plot with trend line is able to show the clear negative correlation.
 
 <img src="13-correlation/correlation.png" title="Higher the prevalence of obesity in a population, lower the life expectancy. Each point in this chart represents a U.S, county, data from Institute for Health Metrics and Evaluation (IHME). A simple scatter plot with trend line is able to show the clear negative correlation." alt="Higher the prevalence of obesity in a population, lower the life expectancy. Each point in this chart represents a U.S, county, data from Institute for Health Metrics and Evaluation (IHME). A simple scatter plot with trend line is able to show the clear negative correlation." width="3500" />
+
+## Day 14: Space
+
+Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are within 2500 parsec distance of the sun and surface temperature less than 2000 Kelvin. The largest Exoplanet **KOI-3617 b** is far away and hot, the smallest Exoplanet **KOI-2867 c** is close(er) and cool(er).
+
+Data source: [Open Exoplanet Catalogue Tables](https://github.com/OpenExoplanetCatalogue/oec_tables)
+
+<img src="14-space/exoplanet.png" title="Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are within 2500 parsec distance of the sun and surface temperature less than 2000 Kelvin. The largest Exoplanet **KOI-3617 b** is far away and hot, the smallest Exoplanet KOI-2867 c is close(er) and cool(er)." alt="Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are within 2500 parsec distance of the sun and surface temperature less than 2000 Kelvin. The largest Exoplanet **KOI-3617 b** is far away and hot, the smallest Exoplanet KOI-2867 c is close(er) and cool(er)." width="3500" />
