@@ -93,3 +93,12 @@ Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are wit
 Data source: [Open Exoplanet Catalogue Tables](https://github.com/OpenExoplanetCatalogue/oec_tables)
 
 <img src="14-space/exoplanet.png" title="Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are within 2500 parsec distance of the sun and surface temperature less than 2000 Kelvin. The largest Exoplanet **KOI-3617 b** is far away and hot, the smallest Exoplanet KOI-2867 c is close(er) and cool(er)." alt="Exploring the Exoplanets. There are lots of them! Most of the Exoplanets are within 2500 parsec distance of the sun and surface temperature less than 2000 Kelvin. The largest Exoplanet **KOI-3617 b** is far away and hot, the smallest Exoplanet KOI-2867 c is close(er) and cool(er)." width="3500" />
+
+
+## Day 15: Multivariate
+
+The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates.
+
+Data source: Bigquery Public Datasets, Census Income, bigquery-public-data:ml_datasets.census_adult_income
+
+<img src="15-multivariate/census_income.png" title="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." alt="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." width="3500" />
