@@ -102,3 +102,13 @@ The census income dataset contains a number of categorical variables that lend t
 Data source: Bigquery Public Datasets, Census Income, bigquery-public-data:ml_datasets.census_adult_income
 
 <img src="15-multivariate/census_income.png" title="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." alt="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." width="3500" />
+
+## Day 15: Trees
+
+Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features.
+
+Data source: https://raw.githubusercontent.com/jbrownlee/Datasets/master/wheat-seeds.csv"
+
+<img src="16-trees/wheat_kernel_tree.png" title="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." alt="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." width="3500" />
+
+<img src="16-trees/decisiontree.png" title="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." alt="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." width="3500" />
