@@ -20,7 +20,7 @@ head(wheat)
 
 # make a decision tree using parsnip package and parttree package
 # remotes::install_github("grantmcdermott/parttree")
-
+library(parttree)
 # start with a simple scatter plot
 p <- ggplot(data = wheat, aes(x = length_of_kernel_groove, y = area)) +
   geom_point(aes(col = wheat_class)) +
