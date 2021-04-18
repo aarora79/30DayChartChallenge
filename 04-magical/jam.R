@@ -6,6 +6,8 @@ library(igraph)
 library(ggplot2)
 library(jsonlite)
 library(tidyverse)
+library(wordcloud)
+library(tidytext)
 
 SHOW_NAME <- "just-add-magic"
 # API_END_POINT <- glue("http://api.tvmaze.com/singlesearch/shows?q={SHOW_NAME}&embed=episodes")

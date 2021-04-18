@@ -103,12 +103,20 @@ Data source: Bigquery Public Datasets, Census Income, bigquery-public-data:ml_da
 
 <img src="15-multivariate/census_income.png" title="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." alt="The census income dataset contains a number of categorical variables that lend themselves beautifully to train a classifier model. This chart explores relationship in multivariate data using parallel coordinates." width="3500" />
 
-## Day 15: Trees
+## Day 16: Trees
 
 Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features.
 
-Data source: https://raw.githubusercontent.com/jbrownlee/Datasets/master/wheat-seeds.csv"
+Data source: https://raw.githubusercontent.com/jbrownlee/Datasets/master/wheat-seeds.csv
 
 <img src="16-trees/treemap.png" title="Classify wheat kernels using a decision tree. A decision tree chart that uses only two features i.e. area and length of the kernel groove can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." alt="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." width="3500" />
 
 <img src="16-trees/decisiontree.png" title="Classify wheat kernels using a decision tree. A decision tree chart that uses only two features i.e. area and length of the kernel groove can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." alt="Classify wheat kernels using a decision tree. A decision tree chart that using only two features i.e. area and length of the kernel groove we can achieve pretty good classification. A treemap is used to plot the decision boundary of a classifier built using these two features." width="3500" />
+
+
+## Day 17: Pop Culture
+
+Use wordcloud to get an idea of Netflix TV show content in India and the US. Some common themes such as family, friends, life and love occur in shows in both countries. A lot of words pointing to many different genres occur in the Netflix shows in the U.S., not so much in India. Used the ggwordcloud and patchwork packages for the first time.
+Data source: https://www.kaggle.com/shivamb/netflix-shows
+
+<img src="17-popculture/netflix_wc.png" title="Use wordcloud to get an idea of Netflix TV show content in India and the US. Some common themes such as family, friends, life and love occur in shows in both countries. A lot of words pointing to many different genres occur in the Netflix shows in the U.S., not so much in India. Used the ggwordcloud and patchwork packages for the first time." alt="Use wordcloud to get an idea of Netflix TV show content in India and the US. Some common themes such as family, friends, life and love occur in shows in both countries. A lot of words pointing to many different genres occur in the Netflix shows in the U.S., not so much in India. Used the ggwordcloud and patchwork packages for the first time." width="3500" />
