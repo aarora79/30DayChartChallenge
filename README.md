@@ -158,3 +158,11 @@ The number of books and journal articles published by Springer over more than 15
 Data Source: bigquery-public-data:breathe.springer
 
 <img src="22-animation/springer.gif" title="The number of books and journal articles published by Springer over more than 150 years as an animation. Not unexpectedly, the number of journal articles far exceed the number of books. Simple chart, just learning about gganimate." alt="The number of books and journal articles published by Springer over more than 150 years as an animation. Not unexpectedly, the number of journal articles far exceed the number of books. Simple chart, just learning about gganimate." width="3500" />
+
+## Day 23: Tiles
+
+Percentage of tags seen in Stackoverflow posts over the years. Javascript is growing and growing, same for Python, other web technologies are also quite common, Android is growing slowing and steadily. c# is past its glory days, C, C++ are declining.
+
+Data Source: bigquery-public-data.stackoverflow.stackoverflow_posts
+
+<img src="23-tiles/tiles.png" title="Percentage of tags seen in Stackoverflow posts over the years. Javascript is growing and growing, same for Python, other web technologies are also quite common, Android is growing slowing and steadily. c# is past its glory days, C, C++ are declining." alt="Percentage of tags seen in Stackoverflow posts over the years. Javascript is growing and growing, same for Python, other web technologies are also quite common, Android is growing slowing and steadily. c# is past its glory days, C, C++ are declining." width="3500" />
