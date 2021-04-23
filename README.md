@@ -150,3 +150,11 @@ My deadlift journey from 0 (almost) to 315 lb (still continuing). A timeseries o
 My weight loss journey from 253lb to 190lb (still continuing). Spread across 15 months, the downwards trending line chart reflects weight measurement done every single day, lays bare all the ups and downs. Consistency rather than intensity! More such charts in my book [Blueberries in my salad: my journey towards fitness & strength]( https://leanpub.com/blueberries-in-my-salad).
 
 <img src="21-downwards/downwards.png" title="My weight loss journey from 253lb to 190lb (still continuing). Spread across 15 months, the downwards trending line chart reflects weight measurement done every single day, lays bare all the ups and downs. Consistency rather than intensity! More such charts in my book Blueberries in my salad: my journey towards fitness & strength." alt="My weight loss journey from 253lb to 190lb (still continuing). Spread across 15 months, the downwards trending line chart reflects weight measurement done every single day, lays bare all the ups and downs. Consistency rather than intensity! More such charts in my book Blueberries in my salad: my journey towards fitness & strength." width="3500" />
+
+## Day 22: Animation
+
+The number of books and journal articles published by Springer over more than 150 years as an animation. Not unexpectedly, the number of journal articles far exceed the number of books. Simple chart, just learning about gganimate.
+
+Data Source: bigquery-public-data:breathe.springer
+
+<img src="22-animation/springer.png" title="The number of books and journal articles published by Springer over more than 150 years as an animation. Not unexpectedly, the number of journal articles far exceed the number of books. Simple chart, just learning about gganimate." alt="The number of books and journal articles published by Springer over more than 150 years as an animation. Not unexpectedly, the number of journal articles far exceed the number of books. Simple chart, just learning about gganimate." width="3500" />
