@@ -22,7 +22,8 @@ aaqol_english_speaking <- aaqol %>%
   count(ethnicity, english_speaking) %>%
   replace_na(list(english_speaking="Did not answer")) %>%
   group_by(ethnicity) %>%
-  mutate(pct = (100*n)/sum(n))
+  mutate(pct = (100*n)/sum(n)) %>%
+  complete(ethnicity, english_speaking, fill=list(pct=0, n=0))
 aaqol_english_speaking
 
 aaqol_english_speaking %>%
