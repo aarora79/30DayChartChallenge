@@ -170,6 +170,15 @@ Data Source: bigquery-public-data.stackoverflow.stackoverflow_posts
 
 ## Day 24: Monochrome
 
+Which professions did guests in "The Daily Show" come from? Not much change after 2005, acting and media remain the mainstays.
+
+Data Source: https://www.kaggle.com/fivethirtyeight/fivethirtyeight
+
+<img src="24-monochrome/guests.png" title="Which professions did guests in "The Daily Show" come from? Not much change after 2005, acting and media remain the mainstays." alt="Which professions did guests in "The Daily Show" come from? Not much change after 2005, acting and media remain the mainstays." width="3500" />
+
+
+## Day 25: Demographics
+
 How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage (64.5%) of people who identified as speaking "very well" followed by Asian Indians (55.1%).
 
 Data Source: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
