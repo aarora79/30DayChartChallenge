@@ -166,3 +166,13 @@ Percentage of tags seen in Stackoverflow posts over the years. Javascript is gro
 Data Source: bigquery-public-data.stackoverflow.stackoverflow_posts
 
 <img src="23-tiles/tiles.png" title="Percentage of tags seen in Stackoverflow posts over the years. Javascript is growing and growing, same for Python, other web technologies are also quite common, Android is growing slowing and steadily. c# is past its glory days, C, C++ are declining." alt="Percentage of tags seen in Stackoverflow posts over the years. Javascript is growing and growing, same for Python, other web technologies are also quite common, Android is growing slowing and steadily. c# is past its glory days, C, C++ are declining." width="3500" />
+
+
+## Day 24: Monochrome
+
+How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage (64.5%) of people who identified as speaking "very well" followed by Asian Indians (55.1%).
+
+Data Source: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
+
+<img src="24-monochrome/survey.png" title="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage (64.5%) of people who identified as speaking "very well" followed by Asian Indians (55.1%)." alt="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage (64.5%) of people who identified as speaking "very well" followed by Asian Indians (55.1%)." width="3500" />
+
