@@ -174,7 +174,7 @@ Which professions did guests in "The Daily Show" come from? Not much change afte
 
 Data Source: https://www.kaggle.com/fivethirtyeight/fivethirtyeight
 
-<img src="24-monochrome/guests.png" title="Which professions did guests in "The Daily Show" come from? Not much change after 2005, acting and media remain the mainstays." alt="Which professions did guests in "The Daily Show" come from? Not much change after 2005, acting and media remain the mainstays." width="3500" />
+<img src="24-monochrome/guests.png" title="Which professions did guests in The Daily Show come from? Not much change after 2005, acting and media remain the mainstays." alt="Which professions did guests in The Daily Show come from? Not much change after 2005, acting and media remain the mainstays." width="3500" />
 
 
 ## Day 25: Demographics
