@@ -10,7 +10,7 @@ library(janitor)
 library(lubridate)
 library(tidyverse)
 
-aaqol <- read_csv("24-monochrome/Final_Report_of_the_Asian_American_Quality_of_Life__AAQoL_.csv") %>%
+aaqol <- read_csv("25-demographics/Final_Report_of_the_Asian_American_Quality_of_Life__AAQoL_.csv") %>%
   janitor::clean_names()
 head(aaqol)
 glimpse(aaqol)
@@ -29,9 +29,11 @@ aaqol_english_speaking
 aaqol_english_speaking %>%
   ggplot(aes(x=ethnicity, y=n, col=english_speaking, fill=english_speaking, group=english_speaking)) +
   geom_bar(stat='identity', position='dodge') +
-  geom_text(aes(label=glue("{round(pct, 1)}%")), position=position_dodge(width=0.9), vjust=-0.25, color=I("black")) +
-  scale_fill_grey() +
-  scale_color_grey() +
+  geom_text(aes(label=glue("{round(pct, 1)}%")), position=position_dodge(width=0.9), vjust=-0.15, color=I("black"), size=3) +
+  #scale_fill_grey() +
+  #scale_color_grey() +
+  scale_fill_tableau() +
+  scale_color_tableau() +
   theme_fivethirtyeight() +
   labs(title="How well do you speak English?",
        subtitle="Survey of people of various Asian American ethnicites in Austin, TX",
