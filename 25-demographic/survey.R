@@ -10,7 +10,7 @@ library(janitor)
 library(lubridate)
 library(tidyverse)
 
-aaqol <- read_csv("25-demographics/Final_Report_of_the_Asian_American_Quality_of_Life__AAQoL_.csv") %>%
+aaqol <- read_csv("25-demographic/Final_Report_of_the_Asian_American_Quality_of_Life__AAQoL_.csv") %>%
   janitor::clean_names()
 head(aaqol)
 glimpse(aaqol)

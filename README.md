@@ -183,5 +183,5 @@ How well do people of different Asian American communities speak English? Here i
 
 Data Source: https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
 
-<img src="24-monochrome/survey.png" title="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." alt="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." width="3500" />
+<img src="25-demographic/survey.png" title="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." alt="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." width="3500" />
 
