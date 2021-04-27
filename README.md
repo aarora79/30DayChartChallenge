@@ -185,3 +185,12 @@ Data Source: https://data.austintexas.gov/City-Government/Final-Report-of-the-As
 
 <img src="25-demographic/survey.png" title="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." alt="How well do people of different Asian American communities speak English? Here is the data from a survey conducted in Austin, Texas. Filipinos had the highest percentage of people who identified as speaking very well followed by Asian Indians." width="3500" />
 
+
+## Day 26: Trends
+
+Steep increase in life expectancy with GDP per capita (at least upto $40,000). Lots of uncertainity $70,000 and above. Countries with population of more than 50 millions are labeled. Trend seems to be Africa, Asia, North America, Europe and Oceania, with South American countries somewhere between Asia and Europe. The United States stands out as an exception. 
+
+Data Source: https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita
+
+<img src="26-trends/gdp_and_life_expectancy.png" title="Steep increase in life expectancy with GDP per capita (at least upto $40,000). Lots of uncertainity $70,000 and above. Countries with population of more than 50 millions are labeled. Trend seems to be Africa, Asia, North America, Europe and Oceania, with South American countries somewhere between Asia and Europe. The United States stands out as an exception." alt="Steep increase in life expectancy with GDP per capita (at least upto $40,000). Lots of uncertainity $70,000 and above. Countries with population of more than 50 millions are labeled. Trend seems to be Africa, Asia, North America, Europe and Oceania, with South American countries somewhere between Asia and Europe. The United States stands out as an exception." width="3500" />
+
