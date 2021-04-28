@@ -194,3 +194,11 @@ Data Source: https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capit
 
 <img src="26-trends/gdp_and_life_expectancy.png" title="Steep increase in life expectancy with GDP per capita (at least upto $40,000). Lots of uncertainity $70,000 and above. Countries with population of more than 50 millions are labeled. Trend seems to be Africa, Asia, North America, Europe and Oceania, with South American countries somewhere between Asia and Europe. The United States stands out as an exception." alt="Steep increase in life expectancy with GDP per capita (at least upto $40,000). Lots of uncertainity $70,000 and above. Countries with population of more than 50 millions are labeled. Trend seems to be Africa, Asia, North America, Europe and Oceania, with South American countries somewhere between Asia and Europe. The United States stands out as an exception." width="3500" />
 
+## Day 27: Educational
+
+Histogram of coefficients of a linear model. Use bootstrap for determining the 95% confidence interval of the coefficients of Math ~ Reading model created from a dataset containing scores of 200 students.
+
+Data Source: https://stats.idre.ucla.edu/stat/data/hsb2.csv
+
+<img src="27-educational/bootstrap.png" title="Histogram of coefficients of a linear model. Use bootstrap for determining the 95% confidence interval of the coefficients of Math ~ Reading model created from a dataset containing scores of 200 students." alt="Histogram of coefficients of a linear model. Use bootstrap for determining the 95% confidence interval of the coefficients of Math ~ Reading model created from a dataset containing scores of 200 students." width="3500" />
+
