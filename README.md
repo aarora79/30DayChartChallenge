@@ -202,3 +202,12 @@ Data Source: https://stats.idre.ucla.edu/stat/data/hsb2.csv
 
 <img src="27-educational/bootstrap.png" title="Histogram of coefficients of a linear model. Use bootstrap for determining the 95% confidence interval of the coefficients of Math ~ Reading model created from a dataset containing scores of 200 students." alt="Histogram of coefficients of a linear model. Use bootstrap for determining the 95% confidence interval of the coefficients of Math ~ Reading model created from a dataset containing scores of 200 students." width="3500" />
 
+
+## Day 28: Future
+
+Forecasting body weight using FB Prophet package. Used the logistic growth model to incorporate a floor and a cap. Just like with any timeseries forecast, the uncertainty increases as we look further into the future.
+
+Data Source: https://raw.githubusercontent.com/aarora79/biomettracker/master/data/Amit.csv
+
+<img src="28-future/forecast.png" title="Forecasting body weight using FB Prophet package. Used the logistic growth model to incorporate a floor and a cap. Just like with any timeseries forecast, the uncertainty increases as we look further into the future." alt="Forecasting body weight using FB Prophet package. Used the logistic growth model to incorporate a floor and a cap. Just like with any timeseries forecast, the uncertainty increases as we look further into the future." width="3500" />
+
