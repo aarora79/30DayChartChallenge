@@ -215,7 +215,7 @@ Data Source: https://raw.githubusercontent.com/aarora79/biomettracker/master/dat
 
 How much did the day to day bodyweight change deviate from the overall average for Amit and Nidhi? Violin plot showing the distribution of the changes for each month. Months with the maximum spread of the data are called out individually.
 
-Data Source: https://raw.githubusercontent.com/aarora79/biomettracker
+Data Source: https://github.com/aarora79/biomettracker
 
 <img src="29-deviations/deviations.png" title="How much did the day to day bodyweight change deviate from the overall average for Amit and Nidhi? Violin plot showing the distribution of the changes for each month. Months with the maximum spread of the data are called out individually." alt="How much did the day to day bodyweight change deviate from the overall average for Amit and Nidhi? Violin plot showing the distribution of the changes for each month. Months with the maximum spread of the data are called out individually." width="3500" />
 

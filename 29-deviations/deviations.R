@@ -86,7 +86,7 @@ df_wt_change %>%
   theme_fivethirtyeight() +
   labs(title="How much did the daily bodyweight change deviate from the overall average every month?",
        subtitle=glue("Dashed line represents average daily weight change over the entire duration, Amit {get_mean_daily_wt_change('Amit')}lb, Nidhi {get_mean_daily_wt_change('Nidhi')}lb"),
-       caption="Source: https://raw.githubusercontent.com/aarora79/biomettracker | Graphic: Amit Arora") +
+       caption="Source: https://github.com/aarora79/biomettracker | Graphic: Amit Arora") +
   theme(legend.position = "none", axis.title = element_text()) +
   ylab("Daily Change in Bodyweight") +
   xlab("")
