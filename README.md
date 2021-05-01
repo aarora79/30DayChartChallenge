@@ -219,3 +219,11 @@ Data Source: https://github.com/aarora79/biomettracker
 
 <img src="29-deviations/deviations.png" title="How much did the day to day bodyweight change deviate from the overall average for Amit and Nidhi? Violin plot showing the distribution of the changes for each month. Months with the maximum spread of the data are called out individually." alt="How much did the day to day bodyweight change deviate from the overall average for Amit and Nidhi? Violin plot showing the distribution of the changes for each month. Months with the maximum spread of the data are called out individually." width="3500" />
 
+## Day 30: 3D
+
+Wheat seed classification using Principal Components. A Kernel Density Estimate of the first two principal components shows that the three classes can be easily separated out.
+
+Data source: https://raw.githubusercontent.com/jbrownlee/Datasets/master/wheat-seeds.csv
+
+<img src="30-3D/kde.png" title="Wheat seed classification using Principal Components. A Kernel Density Estimate of the first two principal components shows that the three classes can be easily separated out." alt="Wheat seed classification using Principal Components. A Kernel Density Estimate of the first two principal components shows that the three classes can be easily separated out." width="3500" />
+
