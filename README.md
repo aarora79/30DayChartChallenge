@@ -8,7 +8,7 @@ After the challenge was over on April 30th, I wanted to make a summary of the tw
 
 The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the **downwards** category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well.
 
-<img src="tweets/liked_and_retweets.png" title="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." alt="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." width="3500" />
+<img src="tweets/likes_and_retweets.png" title="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." alt="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." width="3500" />
 
 ### Map of the locations from where the likes came from
 
