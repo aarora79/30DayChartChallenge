@@ -1,5 +1,33 @@
 # 30 Day Chart Challenge
 
+## Summary
+
+After the challenge was over on April 30th, I wanted to make a summary of the twitter activity related to my tweets on the #30DayChartChallenge. Here is the summary in four charts. All of this analysis was done using the wonderful **rtweet** package.
+
+### Likes Retweets
+
+The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the **downwards** category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well.
+
+<img src="tweets/liked_and_retweets.png" title="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." alt="The tweet with final collage with all the data visualizations I made was the most liked tweet, followed by the downwards category chart which showed my weight loss journey, I guess personal stories do strike a chord. It is one of my favorite charts as well." width="3500" />
+
+### Map of the locations from where the likes came from
+
+I was very curious right from the start as to where these tweets were being viewed and and by whom. Since the twitter APIs do not yet provide an easy direct way to find out the user id/screen name of who all liked or retweeted a particular tweet so I did this manually by clicking on each tweet and then copy pasting the raw text from the pop-up window and then parsing it. Seems like my tweets were liked in all continents except Antartica. Most of the liked came from the U.S. east coast and central Europe. This is ofcourse based on the location that people specified in their twitter profile, but in several cases it was not an actual location so this map does not have all the locations.
+
+<img src="tweets/map.png" title="I was very curious right from the start as to where these tweets were being viewed and and by whom. Since the twitter APIs do not yet provide an easy direct way to find out the user id/screen name of who all liked or retweeted a particular tweet so I did this manually by clicking on each tweet and then copy pasting the raw text from the pop-up window and then parsing it. Seems like my tweets were liked in all continents except Antartica. Most of the liked came from the U.S. east coast and central Europe." alt="I was very curious right from the start as to where these tweets were being viewed and and by whom. Since the twitter APIs do not yet provide an easy direct way to find out the user id/screen name of who all liked or retweeted a particular tweet so I did this manually by clicking on each tweet and then copy pasting the raw text from the pop-up window and then parsing it. Seems like my tweets were liked in all continents except Antartica. Most of the liked came from the U.S. east coast and central Europe." width="3500" />
+
+### Who all were interested in these charts?
+
+Here is a word cloud created from the status messages of the people who liked the charts. Not surprisingly, data and data visualizations along with rstats stands out. Was pleasantly surprised to see "Phd" feature prominently in the list.
+
+<img src="tweets/wc_from_status.png" title="Here is a word cloud created from the status messages of the people who liked the charts. Not surprisingly, data and data visualizations along with rstats stands out. Was pleasantly surprised to see Phd feature prominently in the list." alt="Here is a word cloud created from the status messages of the people who liked the charts. Not surprisingly, data and data visualizations along with rstats stands out. Was pleasantly surprised to see Phd feature prominently in the list." width="3500" />
+
+### Twitter Influence
+
+I think I had a grand total of 44 followers before the challenge started, now I have 70+. Was curious to see how far could my tweets reach. Found this excellent visualization on twitter influence on this recipe book https://rud.is/books/21-recipes/, this chart is created using code from this page.
+
+<img src="tweets/influence.png" title="I think I had a grand total of 44 followers before the challenge started, now I have 70+. Was curious to see how far could my tweets reach. Found this excellent visualization on twitter influence on this recipe book https://rud.is/books/21-recipes/, this chart is created using code from this page." alt="I think I had a grand total of 44 followers before the challenge started, now I have 70+. Was curious to see how far could my tweets reach. Found this excellent visualization on twitter influence on this recipe book https://rud.is/books/21-recipes/, this chart is created using code from this page." width="3500" />
+
 ## Day 1: Part-to-whole
 
 A waffle chart of squares with 10 rows and 42 columns showing the breakdown of number of days taken to lose 61lbs of weight in my weight loss journey over the past 15 months. I went from 253lb to 192lb. Each group of tens is a category i.e. the 190lb's is a category, the 200lb's is a category and so on and so forth. Each box represents 1 day spent in that weight group (a.k.a. category). The plot is able to show that it becomes progressively harder to lose weight, for example while I was in the 240s for only 18 days, I was in the 230s for almost double that time and then same for the 220s. The data is here https://github.com/aarora79/30DayChartChallenge/blob/main/01-part-to-whole/bodyweight.csv.
